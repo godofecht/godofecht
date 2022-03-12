@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Abhishek. I'm a software engineer with experience in audio software development, deep learning, Unity development and complex project management.
+
 <!--
 **godofecht/godofecht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
