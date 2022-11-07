@@ -1,7 +1,9 @@
-### Hi. I'm a software engineer specializing in audio, neuroscience and ML.
+### Hi. I'm a software engineer specializing in audio, neuroscience and ML. I develop audio plugins, games and research tools in C++ and Python.
+I'm the director of a software company called Quilio.
 
 - 📫 How to reach me: 
   Email: abhishek.shivakumar@gmail.com
+  Business: director@quilio.dev
 
 - 💬 Ask me about my research interests, upcoming projects and paid work.
 
