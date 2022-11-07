@@ -7,7 +7,7 @@ I'm the director of a software company called Quilio.
 
 - 💬 Ask me about my research interests, upcoming projects and paid work.
 
-https://github.com/godofecht/godofecht/blob/main/resume%20(1).jpg
+<img src='https://github.com/godofecht/godofecht/blob/main/resume%20(1).jpg'>
 
 <!--
 **godofecht/godofecht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
