@@ -1,5 +1,8 @@
-### Hi. I'm a software engineer specializing in audio, neuroscience and ML. I develop audio plugins, games and research tools in C++ and Python.
-### I direct Quilio, a software development company specializing in real-time, low latency software.
+Hi! It's nice to meet you. As a seasoned software developer, I have a wealth of experience in creating innovative solutions to real-world problems. My portfolio of projects includes everything from web applications and machine learning models to open source projects, demonstrating my versatility as a developer.
+
+In addition to my technical skills, I am also a strong collaborator and communicator, and I enjoy working with others to tackle complex challenges. I have a track record of delivering high-quality code and making meaningful contributions to the projects I work on.
+
+Whether you're looking for guidance on a project, want to collaborate on something new, or just want to see what I'm up to, I welcome you to take a look around my GitHub profile. Thank you for visiting, and I hope you find something here that interests you!
 
 - 📫 How to reach me: 
   Email: abhishek.shivakumar@gmail.com
