@@ -6,8 +6,6 @@ I enjoy working with others to tackle complex challenges. I have a track record 
 
 I also develop fitness and nutrition plans for heavy computer users, focusing on preventing physical issues like tendonitis, RSI, carpal tunnel, and bad posture.
 
-Not agreeable. Extremely compassionate.
-
 "Quick to hear. Slow to speak. Slow to anger"
 
 - 📫 How to reach me: 
