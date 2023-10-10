@@ -6,6 +6,9 @@ I enjoy working with others to tackle complex challenges. I have a track record 
 
 I also develop fitness and nutrition plans for heavy computer users, focusing on preventing physical issues like tendonitis, RSI, carpal tunnel, and bad posture.
 
+I make music too.
+![Sound Cloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)
+
 "Quick to hear. Slow to speak. Slow to anger"
 
 - 📫 How to reach me: 
@@ -17,7 +20,6 @@ I also develop fitness and nutrition plans for heavy computer users, focusing on
 [![Abhishek's github streak](https://github-readme-streak-stats.herokuapp.com/?user=godofecht&theme=blue-green)](https://github.com/godofecht/github-readme-streak-stats) 
 [![Abhishek's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=godofecht&theme=blue-green)](https://github.com/godofecht/github-readme-stats)
 
-IDEs 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
