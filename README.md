@@ -14,6 +14,7 @@ I also develop fitness and nutrition plans for heavy computer users, focusing on
 
 - 💬 Ask me about my research interests, upcoming projects and paid work.
 
-[![Godofecht's github streak](https://github-readme-streak-stats.herokuapp.com/?user=godofecht&theme=blue-green)](https://github.com/godofecht/github-readme-streak-stats)
+[![Godofecht's github streak](https://github-readme-streak-stats.herokuapp.com/?user=godofecht&theme=blue-green)](https://github.com/godofecht/github-readme-streak-stats) 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=godofecht&theme=blue-green)](https://github.com/godofecht/github-readme-stats)
 
 
