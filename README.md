@@ -19,6 +19,5 @@ I also develop fitness and nutrition plans for heavy computer users, focusing on
 
 
 
-Contact:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/8stringsheikh/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-shivakumar-899182a6/)
