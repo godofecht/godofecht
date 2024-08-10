@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-I'm a senior software engineer based in Cambridge, United Kingdom.
-Most of my work is in and around audio software development and DSP.
+I'm a **Senior Software Engineer** based in **Cambridge, United Kingdom**.  
+My work primarily revolves around **audio software development**, **Digital Signal Processing (DSP)**, **games**, and **machine learning**.
 
-I founded Quilio a couple years ago to keep up with the demands of the audio industry.
+A couple of years ago, I founded **Quilio** to meet the growing demands of the audio industry.  
+Currently, I'm focused on getting the **Quilio Software Development Kit** to a suitable level for launch.
 
-At the moment, I'm working on getting the Quilio Software Development kit ready for launch.
+I've also contributed to research, including a paper with **The Wellcome Trust**.
 
 Always happy to chat!
