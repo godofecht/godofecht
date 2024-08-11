@@ -1,14 +1,14 @@
 # **Abhishek Shivakumar**
 
-**Senior Software Engineer | Founder & Director of [Quilio](https://quilio.dev)**  
+**Senior Software Engineer | Founder & Director of <a href="https://quilio.dev" style="background: linear-gradient(to right, #f06, #f9a); -webkit-background-clip: text; color: transparent; text-decoration: none;">Quilio</a>**  
 **Cambridge, United Kingdom**  
-[Personal Website](https://godofecht.github.io) | [GitHub](https://github.com/godofecht)
+<a href="https://godofecht.github.io" style="background: linear-gradient(to right, #f06, #f9a); -webkit-background-clip: text; color: transparent; text-decoration: none;">Personal Website</a> | <a href="https://github.com/godofecht" style="background: linear-gradient(to right, #f06, #f9a); -webkit-background-clip: text; color: transparent; text-decoration: none;">GitHub</a>
 
 ---
 
 ## **About Me**
 
-I'm a Senior Software Engineer with extensive experience in **Audio Software**, **Digital Signal Processing (DSP)**, **Game Development**, and **Machine Learning**. As the founder and director of **[Quilio](https://quilio.dev)**, I focus on developing innovative solutions that bridge technology and creative expression.
+I'm a Senior Software Engineer with extensive experience in **Audio Software**, **Digital Signal Processing (DSP)**, **Game Development**, and **Machine Learning**. As the founder and director of <a href="https://quilio.dev" style="background: linear-gradient(to right, #f06, #f9a); -webkit-background-clip: text; color: transparent; text-decoration: none;">Quilio</a>, I focus on developing innovative solutions that bridge technology and creative expression.
 
 ### **Academic Interests**
 
