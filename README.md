@@ -102,6 +102,8 @@ I've contributed to groundbreaking research, including a significant paper with 
 
 ---
 
+<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+
 <div align="center">
 
 <div style="width: 100%;">
