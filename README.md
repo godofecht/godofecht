@@ -39,6 +39,10 @@
 
 <br/>
 
+<div style="width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=godofecht&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="width: 100%;" />
+</div>
+
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
@@ -106,9 +110,10 @@ I've contributed to groundbreaking research, including a significant paper with 
 
 <div align="center">
 
-<div style="width: 100%;">
+<!-- <div style="width: 100%;">
     <img src="https://github-readme-stats.vercel.app/api?username=godofecht&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="width: 100%;" />
-</div>
+</div> -->
+
 <div style="width: 100%; margin-top: 10px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=godofecht&theme=vue-dark&hide_border=true" style="width: 100%;" />
 </div>
