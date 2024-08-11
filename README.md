@@ -12,3 +12,6 @@ I spend most of my time working on the following:
 - SDK to help developers build audio applications in a fraction of the time.
 - Audio-visual tools to help treat tinnitus and visual snow.
 - C++ toolkit to democratize machine learning in audio
+
+
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=godofecht&show_icons=true&theme=radical)
