@@ -86,21 +86,20 @@
 **Cambridge, United Kingdom**  
 <a href="https://godofecht.github.io" style="background: linear-gradient(to right, #f06, #f9a); -webkit-background-clip: text; color: transparent; text-decoration: none;">Personal Website</a> | <a href="https://github.com/godofecht" style="background: linear-gradient(to right, #f06, #f9a); -webkit-background-clip: text; color: transparent; text-decoration: none;">GitHub</a>
 
----
-
-## **About Me**
-
-I'm a Senior Software Engineer with extensive experience in **Audio Software**, **Digital Signal Processing (DSP)**, **Game Development**, and **Machine Learning**. As the founder and director of <a href="https://quilio.dev" style="background: linear-gradient(to right, #f06, #f9a); -webkit-background-clip: text; color: transparent; text-decoration: none;">Quilio</a>, I focus on developing innovative solutions that bridge technology and creative expression.
-
-### **Academic Interests**
-
-- **Neurostimulation**
-- **Audio-Visual Perception**
-- **Real-Time Systems**
-
-I've contributed to groundbreaking research, including a significant paper with **The Wellcome Trust**. I am currently working on several independent publications that further my passion for integrating technology with human perception.
-
----
+<p align="center">
+  Hi, I'm [Your Name], Senior Software Engineer & Founder of <a href="https://quilio.dev" style="background: linear-gradient(to right, #f06, #f9a); -webkit-background-clip: text; color: transparent; text-decoration: none;">Quilio</a>
+  <br>
+  <br>
+  🎧 I specialize in Audio Software, Digital Signal Processing (DSP), Game Development, and Machine Learning
+  <br>
+  🧠 My academic interests include Neurostimulation, Audio-Visual Perception, and Real-Time Systems
+  <br>
+  🎓 I've made significant contributions to research, including a paper with The Wellcome Trust
+  <br>
+  ✍️ I'm currently working on independent publications that explore the integration of technology with human perception
+  <br>
+  📫 How to reach me: <a href="mailto:[your-email]">[your-email]</a>
+</p>
 
 ## **Current Projects**
 
