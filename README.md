@@ -70,6 +70,8 @@
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/godofecht-profile-views"/></a>
 </p>
 
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+
 <br/>
 
 <!-- GitHub Star link -->
