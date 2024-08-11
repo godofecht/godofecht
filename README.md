@@ -36,8 +36,14 @@ I've contributed to groundbreaking research, including a significant paper with 
 
 <div align="center">
 
-![godofecht's Stats](https://github-readme-stats.vercel.app/api?username=godofecht&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![godofecht's Streak](https://github-readme-streak-stats.herokuapp.com/?user=godofecht&theme=vue-dark&hide_border=true)
-![godofecht's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=godofecht&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<div style="width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=godofecht&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="width: 100%;" />
+</div>
+<div style="width: 100%; margin-top: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=godofecht&theme=vue-dark&hide_border=true" style="width: 100%;" />
+</div>
+<div style="width: 100%; margin-top: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godofecht&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" style="width: 100%;" />
+</div>
 
 </div>
