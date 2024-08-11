@@ -87,7 +87,7 @@
 <a href="https://godofecht.github.io" style="background: linear-gradient(to right, #f06, #f9a); -webkit-background-clip: text; color: transparent; text-decoration: none;">Personal Website</a> | <a href="https://github.com/godofecht" style="background: linear-gradient(to right, #f06, #f9a); -webkit-background-clip: text; color: transparent; text-decoration: none;">GitHub</a>
 
 <p align="center">
-  「 Hi, I'm Abhishek Shivakumar, Senior Software Engineer & Founder of <a href="https://quilio.dev" style="background: linear-gradient(to right, #f06, #f9a); -webkit-background-clip: text; color: transparent; text-decoration: none;">Quilio</a> |
+「 Hi, I'm Abhishek Shivakumar, Senior Software Engineer & Founder of <a href="https://quilio.dev" style="background: linear-gradient(to right, #f06, #f9a); -webkit-background-clip: text; color: transparent; text-decoration: none;">Quilio</a> 」
   <br>
   <br>
   🎧 I specialize in Audio Software, Digital Signal Processing (DSP), Game Development, and Machine Learning.
