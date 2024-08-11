@@ -98,7 +98,7 @@
   <br>
   ✍️ I'm currently working on independent publications that explore the integration of technology with human perception.
   <br>
-  📫 How to reach me: <a href="mailto:[your-email]">[your-email]</a>
+  📫 How to reach me: <a href="mailto:[abhishek.shivakumar@gmail.com]">[abhishek.shivakumar@gmail.com]</a>
 </p>
 
 ## **Current Projects**
