@@ -14,4 +14,6 @@ I spend most of my time working on the following:
 - C++ toolkit to democratize machine learning in audio
 
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=godofecht&show_icons=true&theme=radical)
+![godofecht's Stats](https://github-readme-stats.vercel.app/api?username=godofecht&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![godofecht's Streak](https://github-readme-streak-stats.herokuapp.com/?user=godofecht&theme=vue-dark&hide_border=true)
+![godofecht's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=godofecht&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
