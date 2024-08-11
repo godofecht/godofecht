@@ -14,6 +14,7 @@ I'm a Senior Software Engineer with extensive experience in **Audio Software**, 
 
 - **Neurostimulation**
 - **Audio-Visual Perception**
+- **Real-Time Systems**
 
 I've contributed to groundbreaking research, including a significant paper with **The Wellcome Trust**. I am currently working on several independent publications that further my passion for integrating technology with human perception.
 
