@@ -98,7 +98,7 @@
 <p align="center">
   **Senior Software Engineer | Founder & Director of <a href="https://quilio.dev" style="background: linear-gradient(to right, #f06, #f9a); -webkit-background-clip: text; color: transparent; text-decoration: none;">Quilio</a>**  
   **Cambridge, United Kingdom**  
-  <a href="https://godofecht.github.io" style="background: linear-gradient(to right, #f06, #f9a); -webkit-background-clip: text; color: transparent; text-decoration: none;">Personal Website</a> | <a href="https://github.com/godofecht" style="background: linear-gradient(to right, #f06, #f9a); -webkit-background-clip: text; color: transparent; text-decoration: none;">GitHub</a>
+  <a href="https://godofecht.github.io" style="background: linear-gradient(to right, #f06, #f9a); -webkit-background-clip: text; color: transparent; text-decoration: none;">Personal Website</a>
 </p>
 
 <p align="center">
