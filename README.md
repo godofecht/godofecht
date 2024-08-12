@@ -111,6 +111,7 @@
 </p>
 
 ## **Current Projects**
+
 ### **Ongoing Work**
 
 <div style="display: flex; align-items: center; justify-content: center;">
@@ -133,6 +134,7 @@
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JtMXA2dWdpZWF4NGp5YzZpMmM2MjRzNzI3ZnJ0dWN1d3hhb3F6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/69Tb59x7R4hiOJQQWp/giphy-downsized-large.gif" width="400px" alt="GIF">
   </div>
 </div>
+
 
   
 <br/>
