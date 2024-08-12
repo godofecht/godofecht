@@ -102,7 +102,7 @@
 </p>
 
 <p align="center">
-「 Hi, I'm Abhishek Shivakumar, Senior Software Engineer & Founder of <a href="https://quilio.dev" style="background: linear-gradient(to right, #f06, #f9a); -webkit-background-clip: text; color: transparent; text-decoration: none;">Quilio</a> 」  
+「 Hi, I'm Abhishek Shivakumar, Senior Software Engineer & Founder of <a href="https://quilio.dev" style="background: linear-gradient(to right, #f06, #f9a); -webkit-background-clip: text; color: transparent; text-decoration: none;">Quilio</a> 」  <br>
   🎧 I specialize in Audio Software, Digital Signal Processing (DSP), Game Development, and Machine Learning.  
   🧠 My academic interests include Neurostimulation, Audio-Visual Perception, and Real-Time Systems.  
   🎓 I've contributed to research, including a paper with The Wellcome Trust on neurostimulation.  
