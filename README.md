@@ -1,5 +1,5 @@
-<p align="center">
-  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=godofecht.godofecht">
+<p align="left">
+  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=godofecht.godofecht">
 </p>
 
 <h1 align="center">
