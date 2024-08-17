@@ -130,9 +130,6 @@
       </li>
     </ul>
   </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="path-to-your-image.png" width="400px" alt="GIF">
-  </div>
 </div>
 
 
