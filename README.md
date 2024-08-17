@@ -25,6 +25,26 @@
   <img width="1280" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JtMXA2dWdpZWF4NGp5YzZpMmM2MjRzNzI3ZnJ0dWN1d3hhb3F6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/69Tb59x7R4hiOJQQWp/giphy-downsized-large.gif">
 </p>
 
+<h1 align="center">
+  Abhishek Shivakumar
+</h1>
+
+<p align="center">
+  **Senior Software Engineer | Founder & Director of <a href="https://quilio.dev" style="background: linear-gradient(to right, #f06, #f9a); -webkit-background-clip: text; color: transparent; text-decoration: none;">Quilio</a>**  
+  **Cambridge, United Kingdom**  
+  <a href="https://godofecht.github.io" style="background: linear-gradient(to right, #f06, #f9a); -webkit-background-clip: text; color: transparent; text-decoration: none;">Personal Website</a>
+</p>
+
+<p align="center">
+「 Hi, I'm Abhishek Shivakumar, Senior Software Engineer & Founder of <a href="https://quilio.dev" style="background: linear-gradient(to right, #f06, #f9a); -webkit-background-clip: text; color: transparent; text-decoration: none;">Quilio</a> 」  <br>
+  🎧 I specialize in Audio Software, Digital Signal Processing (DSP), Game Development, and Machine Learning.  
+  🧠 My academic interests include Neurostimulation, Audio-Visual Perception, and Real-Time Systems.  
+  🎓 I've contributed to research, including a paper with The Wellcome Trust on neurostimulation.  
+  ✍️ I'm currently working on independent publications that explore the integration of technology with human perception.  
+  📫 How to reach me: <a href="mailto:[abhishek.shivakumar@gmail.com]">[abhishek.shivakumar@gmail.com]</a>
+</p>
+
+
 <p align="center">
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
@@ -90,25 +110,6 @@
 </p>
 
 <br/>
-
-<h1 align="center">
-  Abhishek Shivakumar
-</h1>
-
-<p align="center">
-  **Senior Software Engineer | Founder & Director of <a href="https://quilio.dev" style="background: linear-gradient(to right, #f06, #f9a); -webkit-background-clip: text; color: transparent; text-decoration: none;">Quilio</a>**  
-  **Cambridge, United Kingdom**  
-  <a href="https://godofecht.github.io" style="background: linear-gradient(to right, #f06, #f9a); -webkit-background-clip: text; color: transparent; text-decoration: none;">Personal Website</a>
-</p>
-
-<p align="center">
-「 Hi, I'm Abhishek Shivakumar, Senior Software Engineer & Founder of <a href="https://quilio.dev" style="background: linear-gradient(to right, #f06, #f9a); -webkit-background-clip: text; color: transparent; text-decoration: none;">Quilio</a> 」  <br>
-  🎧 I specialize in Audio Software, Digital Signal Processing (DSP), Game Development, and Machine Learning.  
-  🧠 My academic interests include Neurostimulation, Audio-Visual Perception, and Real-Time Systems.  
-  🎓 I've contributed to research, including a paper with The Wellcome Trust on neurostimulation.  
-  ✍️ I'm currently working on independent publications that explore the integration of technology with human perception.  
-  📫 How to reach me: <a href="mailto:[abhishek.shivakumar@gmail.com]">[abhishek.shivakumar@gmail.com]</a>
-</p>
 
 ## **Current Projects**
 
