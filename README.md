@@ -92,7 +92,7 @@
 <br/>
 
 <h1 align="center">
-  **Abhishek Shivakumar**
+  Abhishek Shivakumar
 </h1>
 
 <p align="center">
