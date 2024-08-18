@@ -1,13 +1,16 @@
+<!-- Visitor badge -->
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgodofecht%2Fgodofecht&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
 </p>
 
+<!-- Title and animated typing effect -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Code!+Code!+Code!&center=true&size=30">
   </a>
 </h1>
 
+<!-- Social links -->
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
@@ -15,43 +18,46 @@
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 
+<!-- Additional social links -->
 <p align="center">
-  <a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-  <a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
-  <a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
+  <a href="https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png" /></a>
+  <a href="https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png" /></a>
+  <a href="https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png" /></a>
 </p>
 
+<!-- GIF Image -->
 <p align="center">
   <img width="1280" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JtMXA2dWdpZWF4NGp5YzZpMmM2MjRzNzI3ZnJ0dWN1d3hhb3F6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/69Tb59x7R4hiOJQQWp/giphy-downsized-large.gif">
 </p>
 
-<h1 align="center">
-  Abhishek Shivakumar
-</h1>
+<!-- Name and Title -->
+<h1 align="center" style="font-weight:bold;color:#FF6347;">Abhishek Shivakumar</h1>
 
+<!-- Personal Information Section -->
 <p align="center">
-  **Senior Software Engineer | Founder & Director of <a href="https://quilio.dev" style="background: linear-gradient(to right, #f06, #f9a); -webkit-background-clip: text; color: transparent; text-decoration: none;">Quilio</a>**  
-  **Cambridge, United Kingdom**  
+  <strong>Senior Software Engineer | Founder & Director of <a href="https://quilio.dev" style="background: linear-gradient(to right, #f06, #f9a); -webkit-background-clip: text; color: transparent; text-decoration: none;">Quilio</a></strong><br>
+  <strong>Cambridge, United Kingdom</strong><br>
   <a href="https://godofecht.github.io" style="background: linear-gradient(to right, #f06, #f9a); -webkit-background-clip: text; color: transparent; text-decoration: none;">Personal Website</a>
 </p>
 
+<!-- Short Description -->
 <p align="center">
-「 Hi, I'm Abhishek Shivakumar, Senior Software Engineer & Founder of <a href="https://quilio.dev" style="background: linear-gradient(to right, #f06, #f9a); -webkit-background-clip: text; color: transparent; text-decoration: none;">Quilio</a> 」  <br>
-  🎧 I specialize in Audio Software, Digital Signal Processing (DSP), Game Development, and Machine Learning.  
-  🧠 My academic interests include Neurostimulation, Audio-Visual Perception, and Real-Time Systems.  
-  🎓 I've contributed to research, including a paper with The Wellcome Trust on neurostimulation.  
-  ✍️ I'm currently working on independent publications that explore the integration of technology with human perception.  
-  📫 How to reach me: <a href="mailto:[abhishek.shivakumar@gmail.com]">[abhishek.shivakumar@gmail.com]</a>
+  「 Hi, I'm <strong style="color:#FF6347;">Abhishek Shivakumar</strong>, Senior Software Engineer & Founder of <a href="https://quilio.dev" style="background: linear-gradient(to right, #f06, #f9a); -webkit-background-clip: text; color: transparent; text-decoration: none;">Quilio</a> 」<br>
+  🎧 I specialize in Audio Software, Digital Signal Processing (DSP), Game Development, and Machine Learning.<br>
+  🧠 My academic interests include Neurostimulation, Audio-Visual Perception, and Real-Time Systems.<br>
+  🎓 I've contributed to research, including a paper with The Wellcome Trust on neurostimulation.<br>
+  ✍️ I'm currently working on independent publications that explore the integration of technology with human perception.<br>
+  📫 How to reach me: <a href="mailto:abhishek.shivakumar@gmail.com">abhishek.shivakumar@gmail.com</a>
 </p>
 
-
+<!-- GitHub Stats and Social Links -->
 <p align="center">
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
 </p>
 
+<!-- Typing animation with brief description -->
 <p align="center">
-  <!-- get your name in nice font at the top -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Senior%20Software%20Engineer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
@@ -68,6 +74,7 @@
   <a href="https://ko-fi.com/violentsciolist"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
 </p>
 
+<!-- GitHub stats and project showcases -->
 <p align="center">
   <a href="https://www.youtube.com/c/godofecht?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
@@ -81,17 +88,19 @@
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/godofecht-profile-views"/></a>
 </p>
 
+<!-- Spotify section -->
 <p align="center">
   <a href="https://spotify.com">
     <img src="https://spotify-readme.sp-xd.vercel.app/api/spotify" alt="Spotify Now Playing" />
   </a>
 </p>
 
-<br/>
-
+<!-- GitHub pinned repositories section -->
 <p align="center">
   <a href="https://github.com/godofecht/project-one">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godofecht&repo=project-one&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godofecht&repo=project-one&border_color=02D892&bg
+
+_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
   </a>
   <span>&nbsp;</span>
   <a href="https://github.com/godofecht/project-two">
@@ -111,6 +120,7 @@
 
 <br/>
 
+<!-- Current projects and ongoing work -->
 ## **Current Projects**
 
 ### **Ongoing Work**
@@ -133,23 +143,27 @@
   </div>
 </div>
 
-
-
-  
+<!-- Ko-fi button -->
 <br/>
-
 <p align="center">
   <a href="https://www.ko-fi.com/godofecht" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 </p>
 
+<!-- Streak stats and top languages -->
 <div align="center">
-
-<div style="width: 100%; margin-top: 10px;">
+  <div style="width: 100%; margin-top: 10px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=godofecht&theme=vue-dark&hide_border=true" style="width: 100%;" />
-</div>
+  </div>
 
-<div style="width: 100%; margin-top: 10px;">
+  <div style="width: 100%; margin-top: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godofecht&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" style="width: 100%;" />
+  </div>
 </div>
 
-</div>
+<!-- Suggestions:
+1. Bold your name and change its color to make it stand out.
+2. Add a gradient background to important links (Quilio and personal website) to make them visually appealing.
+3. Remove redundancies, such as the repetition of links and similar badges.
+4. Use section headings for better structure.
+5. Add brief comments to explain sections for better readability and maintainability.
+-->
