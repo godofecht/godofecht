@@ -154,10 +154,6 @@ _color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
   <div style="width: 100%; margin-top: 10px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=godofecht&theme=vue-dark&hide_border=true" style="width: 100%;" />
   </div>
-
-  <div style="width: 100%; margin-top: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godofecht&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" style="width: 100%;" />
-  </div>
 </div>
 
 <!-- Suggestions:
