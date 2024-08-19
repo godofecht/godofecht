@@ -13,15 +13,15 @@
 <!-- Social links -->
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://stackoverflow.com/users/4859391/abhishek-shivakumar" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/8stringsheikh/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 
 <!-- Additional social links -->
 <p align="center">
-  <a href="https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png" /></a>
-  <a href="https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png" /></a>
-  <a href="https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png" /></a>
+  <a href="https://dev.to/godofecht"><img src="https://img.icons8.com/windows/32/000000/dev.png" /></a>
+  <a href="https://twitter.com/godofecht"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png" /></a>
+  <a href="https://ko-fi.com/violentsciolist"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png" /></a>
 </p>
 
 <!-- GIF Image -->
