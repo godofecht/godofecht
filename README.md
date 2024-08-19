@@ -51,8 +51,8 @@
 
 <!-- GitHub Stats and Social Links -->
 <p align="center">
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
+  <a href="https://github.com/godofecht/godofecht/stargazers"><img src="https://img.shields.io/github/stars/godofecht/godofecht" alt="Stars Badge"/></a>
+  <a href="https://github.com/godofecht/godofecht/network/members"><img src="https://img.shields.io/github/forks/godofecht/godofecht" alt="Forks Badge"/></a>
 </p>
 
 <!-- Typing animation with brief description -->
