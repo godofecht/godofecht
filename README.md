@@ -85,10 +85,20 @@
 <!-- Spotify section -->
 <p align="left">
   <a href="https://spotify.com">
-    <img src="https://spotify-readme.sp-xd.vercel.app/api/224w72spg57kh3odctaydawsa" alt="Spotify Now Playing" align="left" />
-    <img src="https://spotify-readme.sp-xd.vercel.app/api/224w72spg57kh3odctaydawsa" alt="Spotify Next" align="right" />
+
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/224w72spg57kh3odctaydawsa)
+</div>
+
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/224w72spg57kh3odctaydawsa)
+</div>
+<!--     <img src="https://spotify-readme.sp-xd.vercel.app/api/spotify" alt="Spotify Now Playing" align="left" />
+    <img src="https://spotify-readme.sp-xd.vercel.app/api/spotify" alt="Spotify Next" align="right" /> -->
   </a>
 </p>
+
+
 
 <!-- GitHub pinned repositories section -->
 <p align="center">
