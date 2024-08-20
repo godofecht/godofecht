@@ -85,8 +85,8 @@
 <!-- Spotify section -->
 <p align="left">
   <a href="https://spotify.com">
-    <img src="https://spotify-readme.sp-xd.vercel.app/api/spotify" alt="Spotify Now Playing" align="left" />
-    <img src="https://spotify-readme.sp-xd.vercel.app/api/spotify" alt="Spotify Next" align="right" />
+    <img src="https://spotify-readme.sp-xd.vercel.app/api/224w72spg57kh3odctaydawsa" alt="Spotify Now Playing" align="left" />
+    <img src="https://spotify-readme.sp-xd.vercel.app/api/224w72spg57kh3odctaydawsa" alt="Spotify Next" align="right" />
   </a>
 </p>
 
