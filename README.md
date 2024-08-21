@@ -98,22 +98,22 @@
 
 <!-- GitHub pinned repositories section -->
 <p align="center">
-  <a href="https://github.com/godofecht/project-one">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godofecht&repo=project-one&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+  <a href="https://github.com/godofecht/tinyML">
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godofecht&repo=tinyML&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
   </a>
   <span>&nbsp;</span>
-  <a href="https://github.com/godofecht/project-two">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godofecht&repo=project-two&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+  <a href="https://github.com/godofecht/Ngoma">
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godofecht&repo=Ngoma&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/godofecht/project-three">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godofecht&repo=project-three&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+  <a href="https://github.com/godofecht/Decomposition-Godofecht">
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godofecht&repo=Decomposition-Godofecht&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
   </a>
   <span>&nbsp;</span>
-  <a href="https://github.com/godofecht/project-four">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godofecht&repo=project-four&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+  <a href="https://github.com/godofecht/Slow-Feature-Analysis">
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godofecht&repo=Slow-Feature-Analysis&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
   </a>
 </p>
 
