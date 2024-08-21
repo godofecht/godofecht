@@ -156,7 +156,7 @@
 </div>
 
 
-<!-- Social icons section -->
+<!-- Social icons section 
 <p align="center">
   <a href="https://www.youtube.com/c/godofecht"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -166,6 +166,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/violentsciolist"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
 </p>
+-->
 
 
 <!-- Suggestions:
