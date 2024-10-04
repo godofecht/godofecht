@@ -66,7 +66,7 @@
   🎧 I specialize in Audio Software, Digital Signal Processing (DSP), Game Development, and Machine Learning.<br>
   🧠 My academic interests include Neurostimulation, Audio-Visual Perception, and Real-Time Systems.<br>
   🎓 I've contributed to research, including a paper with The Wellcome Trust on neurostimulation.<br>
-  ✍️ I'm currently working on independent publications that explore the integration of technology with human perception.<br>
+  ✍️ Linguistics & AI generated voices
   📫 How to reach me: <a href="mailto:abhishek.shivakumar@gmail.com">abhishek.shivakumar@gmail.com</a>
 </p>
 
