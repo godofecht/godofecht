@@ -138,6 +138,9 @@
       <li><strong>C++ Toolkit for Machine Learning in Audio</strong><br>
         Democratizing machine learning in the audio domain with a comprehensive C++ toolkit.
       </li>
+      <li><strong>A Universal Phonemic Syllable Tokenizer</strong><br>
+        Enabling straightforward phoneme-syllable matching for AI singing.
+      </li>
     </ul>
   </div>
 </div>
