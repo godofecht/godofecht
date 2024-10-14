@@ -60,17 +60,6 @@
 </p>
 -->
 
-<!-- Short Description -->
-<p align="left">
-  「 Hi, I'm <strong style="color:#FF6347;">Abhishek Shivakumar</strong>, Senior Software Engineer & Founder of <a href="https://quilio.dev" style="background: linear-gradient(to right, #f06, #f9a); -webkit-background-clip: text; color: transparent; text-decoration: none;">Quilio</a> 」<br>
-  🎧 I specialize in Audio Software, Digital Signal Processing (DSP), Game Development, and Machine Learning.<br>
-  🧠 My academic interests include Neurostimulation, Audio-Visual Perception, and Real-Time Systems.<br>
-  🎓 I've contributed to research, including a paper with The Wellcome Trust on neurostimulation.<br>
-  ✍️ Linguistics & AI generated voices
-  📫 How to reach me: <a href="mailto:abhishek.shivakumar@gmail.com">abhishek.shivakumar@gmail.com</a>
-</p>
-
-
 
 <!-- Typing animation with brief description 
 <p align="center">
@@ -117,33 +106,21 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/godofecht/[pypi-toolkit](https://github.com/godofecht/pypi-toolkit)">
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godofecht&repo=pypi-toolkit&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+  </a>
+  <span>&nbsp;</span>
+  <a href="https://github.com/godofecht/Slow-Feature-Analysis">
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godofecht&repo=Slow-Feature-Analysis&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+  </a>
+</p>
+
 <br/>
 
 <!-- Current projects and ongoing work -->
 ## **Current Projects**
 
-### **Ongoing Work**
-
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  <div style="flex: 1; padding-right: 20px;">
-    <ul>
-      <li><strong>SDK for Audio Application Development</strong><br>
-        Developing an SDK to assist developers in building audio applications more efficiently.
-      </li>
-      <br>
-      <li><strong>Audio-Visual Tools for Tinnitus and Visual Snow</strong><br>
-        Creating tools that leverage audio-visual techniques to treat conditions like tinnitus and visual snow.
-      </li>
-      <br>
-      <li><strong>C++ Toolkit for Machine Learning in Audio</strong><br>
-        Democratizing machine learning in the audio domain with a comprehensive C++ toolkit.
-      </li>
-      <li><strong>A Universal Phonemic Syllable Tokenizer</strong><br>
-        Enabling straightforward phoneme-syllable matching for AI singing.
-      </li>
-    </ul>
-  </div>
-</div>
 
 <!-- Ko-fi button -->
 <br/>
