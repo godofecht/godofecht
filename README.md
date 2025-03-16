@@ -19,13 +19,15 @@
 <!-- Additional social links -->
 <!-- Visitor badge -->
 
-
+<!--
 <p align="right">
   <a href="https://dev.to/godofecht"><img src="https://img.icons8.com/windows/32/000000/dev.png" /></a>
   <a href="https://twitter.com/godofecht"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png" /></a>
   <a href="https://ko-fi.com/violentsciolist"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png" /></a>
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgodofecht%2Fgodofecht&label=VISITORS&labelColor=%23000&countColor=%230A0209" align="left" />
 </p>
+
+-->
 
 <!-- GIF Image -->
 <p align="center">
