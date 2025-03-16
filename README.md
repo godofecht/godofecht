@@ -28,13 +28,17 @@
 </p>
 
 -->
-<!--
+
 <!-- GIF Image -->
+<!--
 <p align="center">
   <img width="1280" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JtMXA2dWdpZWF4NGp5YzZpMmM2MjRzNzI3ZnJ0dWN1d3hhb3F6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/69Tb59x7R4hiOJQQWp/giphy-downsized-large.gif">
 </p>
 
+-->
+
 <!-- GitHub stats and project showcases -->
+<!--
 <p align="right">
   <a href="https://www.youtube.com/c/godofecht?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
@@ -45,10 +49,12 @@
   <a href="https://github.com/godofecht?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/godofecht?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-<!--     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/godofecht-profile-views"/></a> -->
+<!--     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/godofecht-profile-views"/></a> 
 </p>
+-->
 
 <!-- GitHub Stats and Social Links -->
+<!--
 <p align="right">
   <a href="https://github.com/godofecht/godofecht/stargazers"><img src="https://img.shields.io/github/stars/godofecht/godofecht" alt="Stars Badge"/></a>
   <a href="https://github.com/godofecht/godofecht/network/members"><img src="https://img.shields.io/github/forks/godofecht/godofecht" alt="Forks Badge"/></a>
