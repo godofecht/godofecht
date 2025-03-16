@@ -28,7 +28,7 @@
 </p>
 
 -->
-
+<!--
 <!-- GIF Image -->
 <p align="center">
   <img width="1280" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JtMXA2dWdpZWF4NGp5YzZpMmM2MjRzNzI3ZnJ0dWN1d3hhb3F6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/69Tb59x7R4hiOJQQWp/giphy-downsized-large.gif">
@@ -53,6 +53,7 @@
   <a href="https://github.com/godofecht/godofecht/stargazers"><img src="https://img.shields.io/github/stars/godofecht/godofecht" alt="Stars Badge"/></a>
   <a href="https://github.com/godofecht/godofecht/network/members"><img src="https://img.shields.io/github/forks/godofecht/godofecht" alt="Forks Badge"/></a>
 </p>
+-->
 
 <!-- Personal Information Section 
 <p align="left">
