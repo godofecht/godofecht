@@ -1,3 +1,7 @@
+<!-- -Concatenative & Deep Vocal Synthesis for TTS, sung voice and vocal transformations in real-time.
+-Frameworks for rapid prototyping in JavaScript, Python and C++.
+-Procedural Generation Systems for Unity and Unreal Engine. -->
+
 <!-- GitHub pinned repositories section -->
 <p align="center">
   <a href="https://github.com/godofecht/tinyML">
