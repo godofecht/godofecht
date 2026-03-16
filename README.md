@@ -175,49 +175,24 @@ I like writing papers about things I find interesting. The first one is publishe
 
 ---
 
-### Pinned
-
-<p align="center">
-  <a href="https://github.com/godofecht/tinyML">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godofecht&repo=tinyML&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-  </a>
-  <span>&nbsp;</span>
-  <a href="https://github.com/godofecht/Racistherion">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godofecht&repo=Racistherion&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/godofecht/temple">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godofecht&repo=temple&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-  </a>
-  <span>&nbsp;</span>
-  <a href="https://github.com/godofecht/zaza">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godofecht&repo=zaza&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/godofecht/IslandBoy">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godofecht&repo=IslandBoy&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-  </a>
-  <span>&nbsp;</span>
-  <a href="https://github.com/godofecht/Neural-Network-based-OCR">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godofecht&repo=Neural-Network-based-OCR&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-  </a>
-</p>
-
----
+### Highlights
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=godofecht&show_icons=true&hide_border=true&bg_color=0D1117&title_color=02D892&text_color=C9D1D9&icon_color=02D892" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=godofecht&theme=vue-dark&hide_border=true&background=0D1117&ring=02D892&fire=02D892&currStreakLabel=02D892" width="49%" />
+<a href="https://github.com/godofecht/tinyML"><kbd>tinyML</kbd></a> · <a href="https://github.com/godofecht/Racistherion"><kbd>Aetherion (Vulkan 3D)</kbd></a> · <a href="https://github.com/godofecht/temple"><kbd>Temple (Rust)</kbd></a> · <a href="https://github.com/godofecht/zaza"><kbd>Zaza (Zig build)</kbd></a> · <a href="https://github.com/godofecht/IslandBoy"><kbd>IslandBoy</kbd></a> · <a href="https://github.com/godofecht/Neural-Network-based-OCR"><kbd>Neural OCR</kbd></a>
+</div>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godofecht&layout=compact&hide_border=true&bg_color=0D1117&title_color=02D892&text_color=C9D1D9&langs_count=12" width="49%" />
+<div align="center">
+<img src="assets/pinned.svg" width="100%" />
+</div>
 
+---
+
+### Languages & Stats
+
+<div align="center">
+<img src="assets/languages.svg" width="100%" />
 </div>
 
 ---
