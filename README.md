@@ -41,7 +41,6 @@ I studied **Neuroscience at Cambridge** and **Music Technology at Birmingham Con
 7+     research papers (1 published, rest in progress)
 3      game engines, from scratch
 2      programming languages designed
-1      didgeridoo, electronically excited
 ```
 
 </td></tr>
@@ -138,7 +137,6 @@ I write papers about things I find interesting. The first one is published. The 
 | **Adaptive Neural Field** (time series) | **R² = 0.9999**. Beat LSTM, Transformers, spiking nets, everything I threw at it. In progress |
 | **RCNet** (complex-valued neural networks) | Phase rotation + amplitude modulation. Full ablation study. In progress |
 | **ECTM** (energy-constrained thought) | What happens when you give a neural network a metabolism? In progress |
-| **Playable Didgeridoo** (NIME 2017) | Fletcher lip valve model. You can physically excite a didgeridoo with speakers. In progress |
 | **Proof-Limits** | Programmatic epsilon-delta proofs using interval arithmetic. In progress |
 
 ---
