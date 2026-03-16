@@ -127,17 +127,17 @@ I studied **Neuroscience at Cambridge** and **Music Technology at Birmingham Con
 
 ### Research
 
-I like writing papers about things I find interesting. Some of these are published, some are just for me.
+I like writing papers about things I find interesting. The first one is published. The rest are in progress and available on request.
 
 | Paper | What Happened |
 |:------|:-------|
-| **Brain-responsive music neurostimulation** | Published in the Journal of Neuro Engineering, 2024 |
-| **FBIR** (reactive DAG optimisation) | Got a **29x** speedup. Wrote it up IEEE-style |
-| **Adaptive Neural Field** (time series) | **R² = 0.9999**. Beat LSTM, Transformers, spiking nets, everything I threw at it |
-| **RCNet** (complex-valued neural networks) | Phase rotation + amplitude modulation. Full ablation study |
-| **ECTM** (energy-constrained thought) | What happens when you give a neural network a metabolism? |
-| **Playable Didgeridoo** (NIME 2017) | Fletcher lip valve model. You can physically excite a didgeridoo with speakers |
-| **Proof-Limits** | Programmatic epsilon-delta proofs using interval arithmetic. Generates proof certificates |
+| **Brain-responsive music neurostimulation** | **Published** in the Journal of Neuro Engineering, 2024 |
+| **FBIR** (reactive DAG optimisation) | Got a **29x** speedup. In progress |
+| **Adaptive Neural Field** (time series) | **R² = 0.9999**. Beat LSTM, Transformers, spiking nets, everything I threw at it. In progress |
+| **RCNet** (complex-valued neural networks) | Phase rotation + amplitude modulation. Full ablation study. In progress |
+| **ECTM** (energy-constrained thought) | What happens when you give a neural network a metabolism? In progress |
+| **Playable Didgeridoo** (NIME 2017) | Fletcher lip valve model. You can physically excite a didgeridoo with speakers. In progress |
+| **Proof-Limits** | Programmatic epsilon-delta proofs using interval arithmetic. In progress |
 
 ---
 
