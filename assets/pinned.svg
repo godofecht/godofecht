@@ -1,0 +1,59 @@
+<svg width="600" height="380" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { fill: #C9D1D9; font-family: Segoe UI, Ubuntu, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; }
+    .desc { fill: #8B949E; font-family: Segoe UI, Ubuntu, Helvetica, Arial, sans-serif; font-size: 11px; }
+    .lang { fill: #8B949E; font-family: Segoe UI, Ubuntu, Helvetica, Arial, sans-serif; font-size: 11px; }
+    .star { fill: #8B949E; font-family: Segoe UI, Ubuntu, Helvetica, Arial, sans-serif; font-size: 11px; }
+    .card { fill: #0D1117; stroke: #21262D; stroke-width: 1; rx: 6; }
+    .card:hover { stroke: #02D892; }
+  </style>
+
+  <!-- Row 1 -->
+  <rect class="card" x="0" y="0" width="290" height="110"/>
+  <circle cx="18" cy="22" r="5" fill="#f34b7d"/>
+  <text class="title" x="30" y="26">tinyML</text>
+  <text class="star" x="248" y="26">&#9733; 6</text>
+  <text class="desc" x="14" y="48">Lightweight real-time ML library in C++.</text>
+  <text class="desc" x="14" y="64">Neural nets from scratch, SIMD-optimised,</text>
+  <text class="desc" x="14" y="80">WASM playground.</text>
+  <circle cx="18" cy="98" r="4" fill="#f34b7d"/><text class="lang" x="26" y="102">C++</text>
+
+  <rect class="card" x="310" y="0" width="290" height="110"/>
+  <circle cx="328" cy="22" r="5" fill="#f34b7d"/>
+  <text class="title" x="340" y="26">Racistherion</text>
+  <text class="desc" x="324" y="48">3D Game Engine in Vulkan and C++.</text>
+  <text class="desc" x="324" y="64">Cascaded shadow maps, GLSL shaders,</text>
+  <text class="desc" x="324" y="80">macOS Metal support.</text>
+  <circle cx="328" cy="98" r="4" fill="#f34b7d"/><text class="lang" x="336" y="102">C++</text>
+
+  <!-- Row 2 -->
+  <rect class="card" x="0" y="130" width="290" height="110"/>
+  <circle cx="18" cy="152" r="5" fill="#dea584"/>
+  <text class="title" x="30" y="156">temple</text>
+  <text class="desc" x="14" y="178">Async HTTP server in Rust. Axum, Tokio,</text>
+  <text class="desc" x="14" y="194">SQLite, multi-crate workspace.</text>
+  <circle cx="18" cy="228" r="4" fill="#dea584"/><text class="lang" x="26" y="232">Rust</text>
+
+  <rect class="card" x="310" y="130" width="290" height="110"/>
+  <circle cx="328" cy="152" r="5" fill="#ec915c"/>
+  <text class="title" x="340" y="156">zaza</text>
+  <text class="desc" x="324" y="178">Zig-driven build system for C, C++, Zig,</text>
+  <text class="desc" x="324" y="194">CMake-interop, and WASM workflows.</text>
+  <circle cx="328" cy="228" r="4" fill="#ec915c"/><text class="lang" x="336" y="232">Zig</text>
+
+  <!-- Row 3 -->
+  <rect class="card" x="0" y="260" width="290" height="110"/>
+  <circle cx="18" cy="282" r="5" fill="#f1e05a"/>
+  <text class="title" x="30" y="286">IslandBoy</text>
+  <text class="desc" x="14" y="308">2D survival game. PixiJS, bitECS, 28+</text>
+  <text class="desc" x="14" y="324">systems, 6-species ecosystem sim.</text>
+  <circle cx="18" cy="358" r="4" fill="#f1e05a"/><text class="lang" x="26" y="362">JavaScript</text>
+
+  <rect class="card" x="310" y="260" width="290" height="110"/>
+  <circle cx="328" cy="282" r="5" fill="#555555"/>
+  <text class="title" x="340" y="286">Neural-Network-based-OCR</text>
+  <text class="star" x="548" y="286">&#9733; 4</text>
+  <text class="desc" x="324" y="308">OCR from scratch in C. Recognises</text>
+  <text class="desc" x="324" y="324">blurred and dirty images.</text>
+  <circle cx="328" cy="358" r="4" fill="#555555"/><text class="lang" x="336" y="362">C</text>
+</svg>

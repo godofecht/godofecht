@@ -1,0 +1,51 @@
+<svg width="600" height="220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="220" rx="8" fill="#0D1117" stroke="#02D892" stroke-width="1"/>
+  <text x="25" y="32" fill="#02D892" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">Most Used Languages (by bytes across 154 repos)</text>
+
+  <!-- Bar -->
+  <rect x="25" y="48" width="550" height="10" rx="5" fill="#161B22"/>
+  <rect x="25" y="48" width="292" height="10" rx="5" fill="#178600"/><!-- C# 53.1% -->
+  <rect x="317" y="48" width="145" height="10" fill="#555555"/><!-- C 26.3% -->
+  <rect x="462" y="48" width="65" height="10" fill="#f34b7d"/><!-- C++ 11.9% -->
+  <rect x="527" y="48" width="19" height="10" fill="#e34c26"/><!-- HTML 3.4% -->
+  <rect x="546" y="48" width="7" height="10" fill="#3D6117"/><!-- TeX 1.2% -->
+  <rect x="553" y="48" width="4" height="10" fill="#89e051"/><!-- Shell 0.7% -->
+  <rect x="557" y="48" width="3" height="10" fill="#3572A5"/><!-- Python 0.3% -->
+  <rect x="560" y="48" width="3" height="10" fill="#aace60"/><!-- HLSL 0.4% -->
+  <rect x="563" y="48" width="3" height="10" fill="#438eff"/><!-- ObjC 0.5% -->
+  <rect x="566" y="48" width="9" height="10" rx="0 5 5 0" fill="#DA3434"/><!-- rest -->
+
+  <!-- Legend -->
+  <circle cx="37" cy="80" r="5" fill="#178600"/><text x="48" y="84" fill="#C9D1D9" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="12">C# <tspan fill="#8B949E">53.1%</tspan></text>
+  <circle cx="137" cy="80" r="5" fill="#555555"/><text x="148" y="84" fill="#C9D1D9" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="12">C <tspan fill="#8B949E">26.3%</tspan></text>
+  <circle cx="217" cy="80" r="5" fill="#f34b7d"/><text x="228" y="84" fill="#C9D1D9" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="12">C++ <tspan fill="#8B949E">11.9%</tspan></text>
+  <circle cx="317" cy="80" r="5" fill="#e34c26"/><text x="328" y="84" fill="#C9D1D9" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="12">HTML <tspan fill="#8B949E">3.4%</tspan></text>
+  <circle cx="417" cy="80" r="5" fill="#3D6117"/><text x="428" y="84" fill="#C9D1D9" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="12">TeX <tspan fill="#8B949E">1.2%</tspan></text>
+  <circle cx="487" cy="80" r="5" fill="#89e051"/><text x="498" y="84" fill="#C9D1D9" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="12">Shell <tspan fill="#8B949E">0.7%</tspan></text>
+
+  <circle cx="37" cy="104" r="5" fill="#438eff"/><text x="48" y="108" fill="#C9D1D9" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="12">Obj-C <tspan fill="#8B949E">0.5%</tspan></text>
+  <circle cx="137" cy="104" r="5" fill="#aace60"/><text x="148" y="108" fill="#C9D1D9" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="12">HLSL <tspan fill="#8B949E">0.4%</tspan></text>
+  <circle cx="237" cy="104" r="5" fill="#3572A5"/><text x="248" y="108" fill="#C9D1D9" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="12">Python <tspan fill="#8B949E">0.3%</tspan></text>
+  <circle cx="337" cy="104" r="5" fill="#DA3434"/><text x="348" y="108" fill="#C9D1D9" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="12">CMake <tspan fill="#8B949E">0.2%</tspan></text>
+
+  <!-- Note about C# -->
+  <text x="25" y="138" fill="#8B949E" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" font-style="italic">C# is inflated by Unity projects. Day-to-day I mostly write C++, Python, TypeScript, and Rust.</text>
+
+  <!-- Stats row -->
+  <line x1="25" y1="158" x2="575" y2="158" stroke="#21262D" stroke-width="1"/>
+
+  <text x="25" y="180" fill="#02D892" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">306</text>
+  <text x="25" y="196" fill="#8B949E" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11">Repos</text>
+
+  <text x="115" y="180" fill="#02D892" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">127</text>
+  <text x="115" y="196" fill="#8B949E" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11">Stars</text>
+
+  <text x="200" y="180" fill="#02D892" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">43</text>
+  <text x="200" y="196" fill="#8B949E" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11">Followers</text>
+
+  <text x="300" y="180" fill="#02D892" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">20+</text>
+  <text x="300" y="196" fill="#8B949E" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11">Languages</text>
+
+  <text x="400" y="180" fill="#02D892" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">200K</text>
+  <text x="400" y="196" fill="#8B949E" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11">Lines in Quilio SDK</text>
+</svg>
