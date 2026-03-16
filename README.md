@@ -18,13 +18,13 @@ I build engines, instruments, and languages from scratch.
 <table>
 <tr><td valign="top" width="50%">
 
-### What I Do
+### The Story
 
-I run **Quilio**, an audio technology company in Cambridge. We ship commercial audio plugins to **500,000+ musicians** and build the SDKs and ML tools that power them.
+I started out doing contract work in games. Systems, procedural graphics, environments. Got really into the tools side of things and naturally ended up in audio, where I became a top seller on Fiverr building plugins and DSP tools for companies around the world.
 
-Before that I worked on the **Tracktion Engine** with Jules Storer (the guy who made JUCE), co-founded a neurotechnology startup that made it to the **TechStars finals**, and spent years freelancing for audio companies all over the world.
+Eventually I got tired of solving the same problems differently for each client, so I started **Quilio** to build the SDKs that solve all of them at once. We now ship commercial audio plugins to **500,000+ musicians** and our tools power products for clients like Tracktion, Solemn Tones, Karanyi Audio, and Cymatics.
 
-I studied **Neuroscience at Cambridge** and **Music Technology at Birmingham Conservatoire**. I still do research on the side.
+I studied **Neuroscience at Cambridge** and **Music Technology at Birmingham Conservatoire**. I still write papers on the side. I also run and do calisthenics.
 
 </td><td valign="top" width="50%">
 
@@ -36,7 +36,7 @@ I studied **Neuroscience at Cambridge** and **Music Technology at Birmingham Con
 200K   lines of C++ in the Quilio SDK
 500K+  end users across our plugins
 20+    commercial products shipped
-7+     research papers written
+7+     research papers (1 published, rest in progress)
 3      game engines, from scratch
 2      programming languages designed
 1      didgeridoo, electronically excited
@@ -65,7 +65,7 @@ I studied **Neuroscience at Cambridge** and **Music Technology at Birmingham Con
 <br/><br/>
 <strong><a href="https://github.com/godofecht/Racistherion">Aetherion</a></strong>
 <br/>
-<sub>3D engine. Vulkan rendering, cascaded shadow maps, GLSL shaders, macOS Metal. I recently added Mac support</sub>
+<sub>3D engine. Vulkan rendering, cascaded shadow maps, GLSL shaders. Recently added macOS Metal support</sub>
 </td>
 <td align="center" width="25%">
 <br/>
@@ -77,11 +77,11 @@ I studied **Neuroscience at Cambridge** and **Music Technology at Birmingham Con
 </td>
 <td align="center" width="25%">
 <br/>
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/JUCE-8DC63F?style=flat-square&logoColor=white" />
 <br/><br/>
-<strong><a href="https://github.com/godofecht/temple">Temple</a></strong>
+<strong>Quilio SDK</strong>
 <br/>
-<sub>Async HTTP server in Rust. Axum, Tokio, SQLite, crypto, multi-crate workspace</sub>
+<sub>200K lines of C++. Audio graph with 30+ effects, ML library with neural voice synthesis, hot reload, automated deployment</sub>
 </td>
 </tr>
 </table>
@@ -90,19 +90,11 @@ I studied **Neuroscience at Cambridge** and **Music Technology at Birmingham Con
 <tr>
 <td align="center" width="25%">
 <br/>
-<img src="https://img.shields.io/badge/JUCE-8DC63F?style=flat-square&logoColor=white" />
-<br/><br/>
-<strong>Quilio SDK</strong>
-<br/>
-<sub>200K lines of C++. Audio graph with 30+ effects, ML library with neural voice synthesis, hot reload, automated deployment</sub>
-</td>
-<td align="center" width="25%">
-<br/>
 <img src="https://img.shields.io/badge/Custom-02D892?style=flat-square&logoColor=white" />
 <br/><br/>
 <strong>Flow</strong>
 <br/>
-<sub>A programming language I'm designing. v0.7.0. Has a graphics API, autodiff, audio DSP library, and memory management</sub>
+<sub>A programming language I'm designing. v0.7.0. Graphics API, autodiff, audio DSP library, memory management</sub>
 </td>
 <td align="center" width="25%">
 <br/>
@@ -120,6 +112,14 @@ I studied **Neuroscience at Cambridge** and **Music Technology at Birmingham Con
 <br/>
 <sub>ML framework from scratch in C++. CNNs, Transformers, PINNs, GNNs, RL, Bayesian NNs. SIMD-optimised with a WASM playground</sub>
 </td>
+<td align="center" width="25%">
+<br/>
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+<br/><br/>
+<strong><a href="https://github.com/godofecht/temple">Temple</a></strong>
+<br/>
+<sub>Async HTTP server in Rust. Axum, Tokio, SQLite, crypto, multi-crate workspace</sub>
+</td>
 </tr>
 </table>
 
@@ -127,11 +127,11 @@ I studied **Neuroscience at Cambridge** and **Music Technology at Birmingham Con
 
 ### Research
 
-I like writing papers about things I find interesting. The first one is published. The rest are in progress and available on request.
+I write papers about things I find interesting. The first one is published. The rest are in progress and available on request.
 
 | Paper | What Happened |
 |:------|:-------|
-| **Brain-responsive music neurostimulation** | **Published** in the Journal of Neuro Engineering, 2024 |
+| [**Brain-responsive music neurostimulation**](https://www.biorxiv.org/content/10.1101/2024.07.30.605888v1) | **Published** in the Journal of Neuro Engineering, 2024 |
 | **FBIR** (reactive DAG optimisation) | Got a **29x** speedup. In progress |
 | **Adaptive Neural Field** (time series) | **R² = 0.9999**. Beat LSTM, Transformers, spiking nets, everything I threw at it. In progress |
 | **RCNet** (complex-valued neural networks) | Phase rotation + amplitude modulation. Full ablation study. In progress |
