@@ -24,7 +24,7 @@ I build engines, instruments, and languages from scratch.
 
 I started out doing contract work in games. Systems, procedural graphics, environments. Got really into the tools side of things and naturally ended up in audio, where I became a top seller on Fiverr building plugins and DSP tools for companies around the world.
 
-Eventually I got tired of solving the same problems differently for each client, so I started **Quilio** to build the SDKs that solve all of them at once. We now ship commercial audio plugins to **500,000+ musicians** and our tools power products for clients like Tracktion, Solemn Tones, Karanyi Audio, and Cymatics.
+Eventually I got tired of solving the same problems differently for each client, so I started **Quilio** to build the SDKs that solve all of them at once. We now ship commercial audio plugins to **100,000+ musicians** worldwide.
 
 I studied **Neuroscience at Cambridge** and **Music Technology at Birmingham Conservatoire**. I still write papers on the side. I also run and do calisthenics.
 
