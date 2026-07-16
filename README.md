@@ -131,8 +131,8 @@ The neurostimulation paper is a co-authored bioRxiv preprint; the rest are my ow
 | Paper | Status |
 |:------|:-------|
 | [**Brain-responsive music neurostimulation**](https://www.biorxiv.org/content/10.1101/2024.07.30.605888v1) | bioRxiv preprint, 2024 · co-authored |
-| **FBIR** — reactive DAG optimisation | 29× speedup over naive re-evaluation |
-| **Adaptive Neural Field** — time series | R² = 0.9999; outperformed LSTM, Transformer, and spiking baselines |
+| **FBIR** — reactive DAG optimisation | Incremental re-evaluation that avoids redundant recomputation |
+| **Adaptive Neural Field** — time series | Continuous-field model; strong early results, benchmarking in progress |
 | **RCNet** — complex-valued networks | Phase rotation + amplitude modulation, with a full ablation |
 | **ECTM** — energy-constrained thought | Neural networks under a metabolic budget |
 | **Proof-Limits** | Programmatic ε–δ proofs via interval arithmetic |
