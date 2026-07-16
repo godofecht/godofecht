@@ -20,7 +20,7 @@
 
   <rect class="card" x="310" y="0" width="290" height="110"/>
   <circle cx="328" cy="22" r="5" fill="#f34b7d"/>
-  <text class="title" x="340" y="26">Racistherion</text>
+  <text class="title" x="340" y="26">Aetherion</text>
   <text class="desc" x="324" y="48">3D Game Engine in Vulkan and C++.</text>
   <text class="desc" x="324" y="64">Cascaded shadow maps, GLSL shaders,</text>
   <text class="desc" x="324" y="80">macOS Metal support.</text>

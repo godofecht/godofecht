@@ -8,7 +8,7 @@ I build engines, instruments, and languages from scratch.
 
 [![Website](https://img.shields.io/badge/godofecht.github.io-0D1117?style=for-the-badge&logo=github&logoColor=02D892)](https://godofecht.github.io)
 [![Links](https://img.shields.io/badge/abhishek--shivakumar.com-0D1117?style=for-the-badge&logo=safari&logoColor=02D892)](https://abhishek-shivakumar.com)
-[![Quilio](https://img.shields.io/badge/quilio.dev-0D1117?style=for-the-badge&logo=audio&logoColor=02D892)](https://www.quilio.dev)
+[![Quilio](https://img.shields.io/badge/quilio.dev-0D1117?style=for-the-badge&logo=juce&logoColor=02D892)](https://www.quilio.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=02D892)](https://www.linkedin.com/in/abhishek-shivakumar-899182a6/)
 [![itch.io](https://img.shields.io/badge/itch.io-0D1117?style=for-the-badge&logo=itchdotio&logoColor=02D892)](https://godofecht.itch.io)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-0D1117?style=for-the-badge&logo=kofi&logoColor=02D892)](https://ko-fi.com/violentsciolist)
@@ -33,12 +33,12 @@ I studied **Neuroscience at Cambridge** and **Music Technology at Birmingham Con
 ### By the Numbers
 
 ```
-154    public repos
+160    public repos
 20+    languages shipped in
 200K   lines of C++ in the Quilio SDK
-500K+  end users across our plugins
+100K+  musicians using our plugins
 20+    commercial products shipped
-7+     research papers (1 published, rest in progress)
+6      research papers (1 published, rest in progress)
 3      game engines, from scratch
 2      programming languages designed
 ```
@@ -64,7 +64,7 @@ I studied **Neuroscience at Cambridge** and **Music Technology at Birmingham Con
 <br/>
 <img src="https://img.shields.io/badge/Vulkan-AC162C?style=flat-square&logo=vulkan&logoColor=white" />
 <br/><br/>
-<strong><a href="https://github.com/godofecht/Racistherion">Aetherion</a></strong>
+<strong><a href="https://github.com/godofecht/Aetherion">Aetherion</a></strong>
 <br/>
 <sub>3D engine. Vulkan rendering, cascaded shadow maps, GLSL shaders. Recently added macOS Metal support</sub>
 </td>
@@ -178,7 +178,7 @@ I write papers about things I find interesting. The first one is published. The 
 ### Highlights
 
 <div align="center">
-<a href="https://github.com/godofecht/tinyML"><kbd>tinyML</kbd></a> · <a href="https://github.com/godofecht/Racistherion"><kbd>Aetherion (Vulkan 3D)</kbd></a> · <a href="https://github.com/godofecht/temple"><kbd>Temple (Rust)</kbd></a> · <a href="https://github.com/godofecht/zaza"><kbd>Zaza (Zig build)</kbd></a> · <a href="https://github.com/godofecht/IslandBoy"><kbd>IslandBoy</kbd></a> · <a href="https://github.com/godofecht/Neural-Network-based-OCR"><kbd>Neural OCR</kbd></a>
+<a href="https://github.com/godofecht/tinyML"><kbd>tinyML</kbd></a> · <a href="https://github.com/godofecht/Aetherion"><kbd>Aetherion (Vulkan 3D)</kbd></a> · <a href="https://github.com/godofecht/temple"><kbd>Temple (Rust)</kbd></a> · <a href="https://github.com/godofecht/zaza"><kbd>Zaza (Zig build)</kbd></a> · <a href="https://github.com/godofecht/IslandBoy"><kbd>IslandBoy</kbd></a> · <a href="https://github.com/godofecht/Neural-Network-based-OCR"><kbd>Neural OCR</kbd></a>
 </div>
 
 <br/>
