@@ -36,7 +36,7 @@ I studied **Neuroscience at Cambridge** and **Music Technology at Birmingham Con
 200K   lines of C++ in the Quilio SDK
 100K+  musicians using our plugins
 20+    commercial products shipped
-6      research papers (1 published, rest in progress)
+6      research papers (1 preprint, rest in progress)
 3      game engines, from scratch
 2      programming languages designed
 ```
@@ -126,11 +126,11 @@ I studied **Neuroscience at Cambridge** and **Music Technology at Birmingham Con
 
 ### Research
 
-The first paper is published; the rest are in progress and available on request.
+The neurostimulation paper is a co-authored bioRxiv preprint; the rest are my own, in progress and available on request.
 
-| Paper | Result |
+| Paper | Status |
 |:------|:-------|
-| [**Brain-responsive music neurostimulation**](https://www.biorxiv.org/content/10.1101/2024.07.30.605888v1) | Published — Journal of Neural Engineering, 2024 |
+| [**Brain-responsive music neurostimulation**](https://www.biorxiv.org/content/10.1101/2024.07.30.605888v1) | bioRxiv preprint, 2024 · co-authored |
 | **FBIR** — reactive DAG optimisation | 29× speedup over naive re-evaluation |
 | **Adaptive Neural Field** — time series | R² = 0.9999; outperformed LSTM, Transformer, and spiking baselines |
 | **RCNet** — complex-valued networks | Phase rotation + amplitude modulation, with a full ablation |
