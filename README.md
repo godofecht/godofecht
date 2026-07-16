@@ -22,11 +22,11 @@ I build engines, instruments, and languages from scratch.
 
 ### The Story
 
-I started out doing contract work in games. Systems, procedural graphics, environments. Got really into the tools side of things and naturally ended up in audio, where I became a top seller on Fiverr building plugins and DSP tools for companies around the world.
+I started in games — contract work on systems, procedural graphics, and environments — and drifted toward the tooling side, which pulled me into audio. I became a top-selling plugin developer, building DSP tools for companies worldwide.
 
-Eventually I got tired of solving the same problems differently for each client, so I started **Quilio** to build the SDKs that solve all of them at once. We now ship commercial audio plugins to **100,000+ musicians** worldwide.
+Eventually I got tired of re-solving the same problems one client at a time, so I started **Quilio** to build the SDKs that solve them once. We now ship commercial audio plugins to **100,000+ musicians** worldwide.
 
-I studied **Neuroscience at Cambridge** and **Music Technology at Birmingham Conservatoire**. I still write papers on the side. I also run and do calisthenics.
+I studied **Neuroscience at Cambridge** and **Music Technology at Birmingham Conservatoire**, and still write the occasional paper. Outside work, I run and do calisthenics.
 
 </td><td valign="top" width="50%">
 
@@ -95,7 +95,7 @@ I studied **Neuroscience at Cambridge** and **Music Technology at Birmingham Con
 <br/><br/>
 <strong>Flow</strong>
 <br/>
-<sub>A programming language I'm designing. v0.7.0. Graphics API, autodiff, audio DSP library, memory management</sub>
+<sub>A language I'm designing (v0.7.0). Graphics API, autodiff, audio DSP, manual memory management</sub>
 </td>
 <td align="center" width="25%">
 <br/>
@@ -103,7 +103,7 @@ I studied **Neuroscience at Cambridge** and **Music Technology at Birmingham Con
 <br/><br/>
 <strong>Flux</strong>
 <br/>
-<sub>A Turing-complete graph-rewriting language. Pattern matching on typed port graphs. 16K lines, all tests passing</sub>
+<sub>A Turing-complete graph-rewriting language. Pattern matching on typed port graphs</sub>
 </td>
 <td align="center" width="25%">
 <br/>
@@ -128,60 +128,28 @@ I studied **Neuroscience at Cambridge** and **Music Technology at Birmingham Con
 
 ### Research
 
-I write papers about things I find interesting. The first one is published. The rest are in progress and available on request.
+The first paper is published; the rest are in progress and available on request.
 
-| Paper | What Happened |
+| Paper | Result |
 |:------|:-------|
-| [**Brain-responsive music neurostimulation**](https://www.biorxiv.org/content/10.1101/2024.07.30.605888v1) | **Published** in the Journal of Neuro Engineering, 2024 |
-| **FBIR** (reactive DAG optimisation) | Got a **29x** speedup. In progress |
-| **Adaptive Neural Field** (time series) | **R² = 0.9999**. Beat LSTM, Transformers, spiking nets, everything I threw at it. In progress |
-| **RCNet** (complex-valued neural networks) | Phase rotation + amplitude modulation. Full ablation study. In progress |
-| **ECTM** (energy-constrained thought) | What happens when you give a neural network a metabolism? In progress |
-| **Proof-Limits** | Programmatic epsilon-delta proofs using interval arithmetic. In progress |
+| [**Brain-responsive music neurostimulation**](https://www.biorxiv.org/content/10.1101/2024.07.30.605888v1) | Published — Journal of Neural Engineering, 2024 |
+| **FBIR** — reactive DAG optimisation | 29× speedup over naive re-evaluation |
+| **Adaptive Neural Field** — time series | R² = 0.9999; outperformed LSTM, Transformer, and spiking baselines |
+| **RCNet** — complex-valued networks | Phase rotation + amplitude modulation, with a full ablation |
+| **ECTM** — energy-constrained thought | Neural networks under a metabolic budget |
+| **Proof-Limits** | Programmatic ε–δ proofs via interval arithmetic |
 
 ---
 
-### Tech I Use
+### Tech
 
 <div align="center">
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
-
-![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=flat-square&logo=vulkan&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
-![Metal](https://img.shields.io/badge/Metal-333333?style=flat-square&logo=apple&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
+<sub>Primarily <strong>C++</strong>, <strong>Python</strong>, <strong>Rust</strong>, and <strong>TypeScript</strong> · Vulkan / Metal / OpenGL / GLSL · PyTorch · JUCE · plus whatever a problem needs.</sub>
 </div>
 
 ---
 
-### Highlights
-
-<div align="center">
-<a href="https://github.com/godofecht/tinyML"><kbd>tinyML</kbd></a> · <a href="https://github.com/godofecht/Aetherion"><kbd>Aetherion (Vulkan 3D)</kbd></a> · <a href="https://github.com/godofecht/temple"><kbd>Temple (Rust)</kbd></a> · <a href="https://github.com/godofecht/zaza"><kbd>Zaza (Zig build)</kbd></a> · <a href="https://github.com/godofecht/IslandBoy"><kbd>IslandBoy</kbd></a> · <a href="https://github.com/godofecht/Neural-Network-based-OCR"><kbd>Neural OCR</kbd></a>
-</div>
-
-<br/>
+### Pinned
 
 <div align="center">
 <img src="assets/pinned.svg" width="100%" />
