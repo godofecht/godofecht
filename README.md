@@ -2,7 +2,7 @@
 
 # Abhishek Shivakumar
 
-**Systems Engineer | Founder @ [Quilio](https://www.quilio.dev) | Cambridge, UK**
+**Founder of [Quilio](https://www.quilio.dev) · Systems & Audio Engineer · Cambridge, UK**
 
 I build engines, instruments, and languages from scratch.
 
@@ -10,8 +10,6 @@ I build engines, instruments, and languages from scratch.
 [![Links](https://img.shields.io/badge/abhishek--shivakumar.com-0D1117?style=for-the-badge&logo=safari&logoColor=02D892)](https://abhishek-shivakumar.com)
 [![Quilio](https://img.shields.io/badge/quilio.dev-0D1117?style=for-the-badge&logo=juce&logoColor=02D892)](https://www.quilio.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=02D892)](https://www.linkedin.com/in/abhishek-shivakumar-899182a6/)
-[![itch.io](https://img.shields.io/badge/itch.io-0D1117?style=for-the-badge&logo=itchdotio&logoColor=02D892)](https://godofecht.itch.io)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-0D1117?style=for-the-badge&logo=kofi&logoColor=02D892)](https://ko-fi.com/violentsciolist)
 
 </div>
 
@@ -34,7 +32,7 @@ I studied **Neuroscience at Cambridge** and **Music Technology at Birmingham Con
 
 ```
 160    public repos
-20+    languages shipped in
+20+    languages, shipped
 200K   lines of C++ in the Quilio SDK
 100K+  musicians using our plugins
 20+    commercial products shipped
@@ -166,5 +164,5 @@ The first paper is published; the rest are in progress and available on request.
 ---
 
 <div align="center">
-<sub>Cambridge, UK · 12 years building things · abhishek.shivakumar@gmail.com</sub>
+<sub>Cambridge, UK · abhishek.shivakumar@gmail.com · <a href="https://godofecht.itch.io">itch.io</a> · <a href="https://ko-fi.com/violentsciolist">Ko-fi</a></sub>
 </div>
