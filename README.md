@@ -31,14 +31,12 @@ I studied **Neuroscience at Cambridge** and **Music Technology at Birmingham Con
 ### By the Numbers
 
 ```
-160    public repos
-20+    languages, shipped
-200K   lines of C++ in the Quilio SDK
-100K+  musicians using our plugins
+100K+  musicians using Quilio plugins
 20+    commercial products shipped
+200K   lines of C++ in the Quilio SDK
+2      game engines and 2 languages, from scratch
 6      research papers (1 preprint, rest in progress)
-3      game engines, from scratch
-2      programming languages designed
+160    public repos
 ```
 
 </td></tr>
