@@ -4,7 +4,7 @@
 
 ### Systems · AI · Programming Languages · Audio DSP · Computational Research
 
-I build across abstraction layers — from compilers and real-time systems to machine learning, agents, audio, graphics and scientific tooling.
+I build across abstraction layers, from compilers and real-time systems to machine learning, agents, audio, graphics and scientific tooling.
 
 **Cambridge, UK · Founder of [Quilio](https://www.quilio.dev)**  
 Neuroscience — University of Cambridge · Music Technology — Birmingham Conservatoire
