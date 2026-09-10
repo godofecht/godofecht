@@ -61,7 +61,9 @@ def main():
             stars = x["stargazerCount"]
             star = f' `{stars}★`' if stars >= 3 else ''
             line = fact or x["description"] or ""
-            o.append(f'- **[{name}](https://github.com/{full})**{star} {line}')
+            home = (x.get("homepageUrl") or "").strip()
+            demo = f' [(live)]({home})' if home and 'github.io' in home else ''
+            o.append(f'- **[{name}](https://github.com/{full})**{star} {line}{demo}')
         o.append('')
         if title == "Build systems":
             o.append(spine.PARITY_NOTE)
