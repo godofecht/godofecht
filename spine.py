@@ -8,9 +8,10 @@ Neuroscience at the University of Cambridge, music technology at Birmingham Cons
 # section title, blurb, [(owner/repo, one-line fact or None to use the live description)]
 SECTIONS = [
 ("Flow",
- "Flow is a statically typed language for systems that evolve through time: algebraic effects, "
- "automatic differentiation, and C and MLIR backends. Most of what I am building now runs through it.",
- [("flooooooooooow/flow",        "The language and compiler."),
+ "Flow is a statically typed, compiled systems language for programs that evolve through time. "
+ "Version 1.0 freezes a small production core around the self-hosted `flowc` compiler and a portable C "
+ "backend. `brew tap flooooooooooow/flow && brew install flow`. Most of what I am building now runs through it.",
+ [("flooooooooooow/flow",        "The language, the self-hosted `flowc` compiler and the standard library. MIT, at 1.0.2."),
   ("godofecht/flow-scikit",      "scikit-learn rebuilt in Flow. A 1.4 MB native binary with no Python runtime."),
   ("godofecht/flowrat",          "Rat navigation and hippocampal dynamics in real time. The arena is editable while the simulation runs."),
   ("godofecht/doom-flow",        "The Doom engine, ported."),

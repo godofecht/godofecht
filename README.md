@@ -15,9 +15,9 @@ Neuroscience at the University of Cambridge, music technology at Birmingham Cons
 
 ## Flow
 
-Flow is a statically typed language for systems that evolve through time: algebraic effects, automatic differentiation, and C and MLIR backends. Most of what I am building now runs through it.
+Flow is a statically typed, compiled systems language for programs that evolve through time. Version 1.0 freezes a small production core around the self-hosted `flowc` compiler and a portable C backend. `brew tap flooooooooooow/flow && brew install flow`. Most of what I am building now runs through it.
 
-- **[flow](https://github.com/flooooooooooow/flow)** `3★` The language and compiler. [(live)](https://flooooooooooow.github.io/flow/)
+- **[flow](https://github.com/flooooooooooow/flow)** `3★` The language, the self-hosted `flowc` compiler and the standard library. MIT, at 1.0.2. [(live)](https://flooooooooooow.github.io/flow/)
 - **[flow-scikit](https://github.com/godofecht/flow-scikit)** scikit-learn rebuilt in Flow. A 1.4 MB native binary with no Python runtime. [(live)](https://godofecht.github.io/flow-scikit)
 - **[flowrat](https://github.com/godofecht/flowrat)** Rat navigation and hippocampal dynamics in real time. The arena is editable while the simulation runs. [(live)](https://godofecht.github.io/flowrat/)
 - **[doom-flow](https://github.com/godofecht/doom-flow)** The Doom engine, ported. [(live)](https://godofecht.github.io/doom-flow/)
@@ -89,6 +89,6 @@ Smaller things that exist because something was annoying.
 
 The through line is asking how much of a stack stays necessary once you are willing to change the abstraction underneath it.
 
-There are 98 public repositories here in total. The 61 not listed above are mostly older. [All of them](https://github.com/godofecht?tab=repositories).
+There are 99 public repositories here in total. The 62 not listed above are mostly older. [All of them](https://github.com/godofecht?tab=repositories).
 
 <sub>Page rebuilt from live repository data on 2026-09-10.</sub>
