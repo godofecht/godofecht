@@ -89,6 +89,6 @@ Smaller things that exist because something was annoying.
 
 The through line is asking how much of a stack stays necessary once you are willing to change the abstraction underneath it.
 
-There are 99 public repositories here in total. The 62 not listed above are mostly older. [All of them](https://github.com/godofecht?tab=repositories).
+There are 97 public repositories here in total. The 60 not listed above are mostly older. [All of them](https://github.com/godofecht?tab=repositories).
 
 <sub>Page rebuilt from live repository data on 2026-09-10.</sub>
