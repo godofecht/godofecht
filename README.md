@@ -92,3 +92,7 @@ The through line is asking how much of a stack stays necessary once you are will
 There are 101 public repositories here in total. The 64 not listed above are mostly older. [All of them](https://github.com/godofecht?tab=repositories).
 
 <sub>Page rebuilt from live repository data on 2026-10-12.</sub>
+
+## Public repository quality standard
+
+Every public repository in this account is expected to have a GitHub Pages site, a semantic VERSION, qualifying CI, documented release artifacts and explicit licensing. The [account-wide directive](https://github.com/godofecht/GithubResources/blob/master/PUBLIC_REPOSITORY_STANDARD.md) and [daily compliance audit](https://github.com/godofecht/GithubResources/actions/workflows/audit-public.yml) record the target and remaining gaps; existing repositories are being brought into compliance.
