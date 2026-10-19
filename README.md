@@ -63,7 +63,7 @@ Learning systems and agent infrastructure, going back to networks written from s
 - **[CycleGAN-Timbre-Transfer](https://github.com/godofecht/CycleGAN-Timbre-Transfer)** Timbre transfer through a modified cycle-consistent adversarial network.
 - **[Eye-Evolution](https://github.com/godofecht/Eye-Evolution)** Predator-prey eye evolution, using perceptrons and a genetic algorithm.
 - **[Disparity-Network](https://github.com/godofecht/Disparity-Network)** Depth from binocular image pairs.
-- **[Slow-Feature-Analysis](https://github.com/godofecht/Slow-Feature-Analysis)** Stone and Bray's Slow Feature Analysis, implemented.
+- **[Slow-Feature-Analysis](https://github.com/godofecht/Slow-Feature-Analysis)** `3★` Stone and Bray's Slow Feature Analysis, implemented.
 
 ## Graphics and things that look like something
 
@@ -89,10 +89,6 @@ Smaller things that exist because something was annoying.
 
 The through line is asking how much of a stack stays necessary once you are willing to change the abstraction underneath it.
 
-There are 101 public repositories here in total. The 64 not listed above are mostly older. [All of them](https://github.com/godofecht?tab=repositories).
+There are 107 public repositories here in total. The 70 not listed above are mostly older. [All of them](https://github.com/godofecht?tab=repositories).
 
-<sub>Page rebuilt from live repository data on 2026-10-12.</sub>
-
-## Public repository quality standard
-
-Every public repository in this account is expected to have a GitHub Pages site, a semantic VERSION, qualifying CI, documented release artifacts and explicit licensing. The [account-wide directive](https://github.com/godofecht/GithubResources/blob/master/PUBLIC_REPOSITORY_STANDARD.md) and [daily compliance audit](https://github.com/godofecht/GithubResources/actions/workflows/audit-public.yml) record the target and remaining gaps; existing repositories are being brought into compliance.
+<sub>Page rebuilt from live repository data on 2026-10-19.</sub>
