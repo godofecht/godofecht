@@ -164,7 +164,7 @@ def add_flow_header(svg, dark):
     with open(inventory, encoding="utf-8") as handle:
         raw = handle.read()
     source_rows = [(name, int(n.replace(",", ""))) for name, n in
-                   re.findall(r'^\\| \\[\\`([^\\`]+)\\`\\]\\(https://github\\.com/[^)]+\\) \\| ([\\d,]+) \\|', raw, re.M)]
+                   re.findall(r'^\| \[\`([^\`]+)\`\]\(https://github\.com/[^)]+\) \| ([\d,]+) \|', raw, re.M)]
     source = dict(source_rows)
     extras = ("flooooooooooow/homebrew-flow", "flooooooooooow/tree-sitter-flow",
               "flooooooooooow/flow-tmLanguage", "godofecht/flow-social")
@@ -197,7 +197,7 @@ def add_flow_header(svg, dark):
         "blue", "blue", "blue", "blue", "blue", "blue", "blue",
         "teal", "teal", "teal", "teal", "amber", "amber", "grey"
     ]
-    inner = "\\n".join(svg.split("\\n")[2:-1])
+    inner = "\n".join(svg.split("\n")[2:-1])
     if not inner.startswith('<g stroke-linecap="round">'):
         raise ValueError("Unexpected base graph structure")
     p = [
@@ -235,7 +235,7 @@ def add_flow_header(svg, dark):
         f'<text x="45" y="234" font-size="11" letter-spacing="2.1" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" fill="{muted}">WIDER REPOSITORY CONSTELLATION</text>',
         '<g transform="translate(0 216)">', inner, '</g>', '</svg>'
     ])
-    return "\\n".join(p)
+    return "\n".join(p)
 
 def render(nodes, edges, dark):
     bg   = "#0d1117" if dark else "#ffffff"
