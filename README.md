@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/graph-dark.svg">
-    <img src="assets/graph-light.svg" alt="Every public repository in this account, joined where they share a topic" width="100%">
+    <img src="assets/graph-light.svg" alt="Flow ecosystem: 5,554 source files in 18 public source repositories, with a wider repository constellation" width="100%">
   </picture>
 </div>
 
