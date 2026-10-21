@@ -17,12 +17,35 @@ Neuroscience at the University of Cambridge, music technology at Birmingham Cons
 
 Flow is a statically typed, compiled systems language for programs that evolve through time. Version 1.0 freezes a small production core around the self-hosted `flowc` compiler and a portable C backend. `brew tap flooooooooooow/flow && brew install flow`. Most of what I am building now runs through it.
 
-- **[flow](https://github.com/flooooooooooow/flow)** `5★` The language, the self-hosted `flowc` compiler and the standard library. MIT, at 1.0.2. [(live)](https://flooooooooooow.github.io/flow/)
-- **[flow-scikit](https://github.com/godofecht/flow-scikit)** scikit-learn rebuilt in Flow. A 1.4 MB native binary with no Python runtime. [(live)](https://godofecht.github.io/flow-scikit)
-- **[flowrat](https://github.com/godofecht/flowrat)** Rat navigation and hippocampal dynamics in real time. The arena is editable while the simulation runs. [(live)](https://godofecht.github.io/flowrat/)
-- **[doom-flow](https://github.com/godofecht/doom-flow)** The Doom engine, ported. [(live)](https://godofecht.github.io/doom-flow/)
-- **[flow-euler](https://github.com/godofecht/flow-euler)** Project Euler used as a compiler test suite. [(live)](https://godofecht.github.io/flow-euler/)
-- **[flow-kernel](https://github.com/flooooooooooow/flow-kernel)** Flow on a Tiny Core Linux base, with cgroups, perf and eBPF underneath.
+### Language, compiler and tooling
+
+- **[flow](https://github.com/flooooooooooow/flow)** The language, standard library and compiler infrastructure, with C and MLIR backends. Versions through 1.0.2 are MIT-licensed; 2.0 onward is proprietary. [(docs)](https://flooooooooooow.github.io/flow/)
+- **[flow-compiler](https://github.com/flooooooooooow/flow-compiler)** Self-hosted `flowc`, written in Flow: verified C transpilation and an expanding MLIR lowering pipeline.
+- **[flow-kernel](https://github.com/flooooooooooow/flow-kernel)** Flow Linux integration on Tiny Core, with namespaces, cgroups, perf and eBPF underneath.
+- **[homebrew-flow](https://github.com/flooooooooooow/homebrew-flow)** Homebrew tap and installation formula for Flow.
+- **[flow-skills](https://github.com/flooooooooooow/flow-skills)** Current language references, validation tools and skills for AI coding assistants.
+- **[flow-idiomatics](https://github.com/flooooooooooow/flow-idiomatics)** Dense, executable examples exercising advanced Flow features and architectural patterns.
+- **[tree-sitter-flow](https://github.com/flooooooooooow/tree-sitter-flow)** Tree-sitter grammar, parser fixtures and syntax-highlighting queries.
+- **[flow-tmLanguage](https://github.com/flooooooooooow/flow-tmLanguage)** TextMate grammar for VS Code, Sublime Text and GitHub Linguist.
+
+### Scientific computing and machine learning
+
+- **[flow-scikit](https://github.com/godofecht/flow-scikit)** Classical ML estimators inspired by scikit-learn, compiled to native programs without a Python runtime. [(live)](https://godofecht.github.io/flow-scikit/)
+- **[FlowStudio](https://github.com/godofecht/FlowStudio)** An early Flow-first scientific IDE with a browser workspace and R/Python integration; a prospective RStudio successor.
+- **[hlb-cifar-flow](https://github.com/godofecht/hlb-cifar-flow)** CIFAR-10 training and neural-network kernels in Flow, with CPU-to-MLX numerical parity tests.
+- **[flowrat](https://github.com/godofecht/flowrat)** Real-time rat navigation and hippocampal dynamics, with an editable arena and live neural activity. [(live)](https://godofecht.github.io/flowrat/)
+- **[genomic-world](https://github.com/godofecht/genomic-world)** Spatial population-genetics simulation: diploid organisms, evolution and live genomic statistics.
+- **[embryo-maker-flow](https://github.com/godofecht/embryo-maker-flow)** A cell simulation workbench with native Flow computation and a browser Studio. [(project)](https://godofecht.github.io/embryo-maker-flow/)
+- **[flow-euler](https://github.com/godofecht/flow-euler)** Project Euler solutions used to exercise and verify Flow's C and MLIR compiler paths. [(live)](https://godofecht.github.io/flow-euler/)
+
+### Games, ecosystems and agents
+
+- **[doom-flow](https://github.com/godofecht/doom-flow)** Doom rewritten in Flow, with native and browser builds and deterministic framebuffer parity. [(play)](https://godofecht.github.io/doom-flow/)
+- **[doom-flow-rl](https://github.com/godofecht/doom-flow-rl)** A Doom-like combat environment for reinforcement learning using Flow's native RL APIs.
+- **[lsystem-garden](https://github.com/godofecht/lsystem-garden)** An evolving procedural plant world, written in Flow and compiled to WebAssembly. [(live)](https://godofecht.github.io/lsystem-garden/)
+- **[flow-gun](https://github.com/godofecht/flow-gun)** An interactive 2D/3D evolutionary garden, simulated and rendered in Flow. [(live)](https://godofecht.github.io/flow-gun/)
+- **[flow-chimera](https://github.com/godofecht/flow-chimera)** Experimental Flow port of agent orchestration, bounded memory, tools and preference scoring.
+- **[flow-social](https://github.com/godofecht/flow-social)** Public repository placeholder; no code published yet.
 
 ## Build systems
 
@@ -89,6 +112,6 @@ Smaller things that exist because something was annoying.
 
 The through line is asking how much of a stack stays necessary once you are willing to change the abstraction underneath it.
 
-There are 107 public repositories here in total. The 70 not listed above are mostly older. [All of them](https://github.com/godofecht?tab=repositories).
+Other projects, including older work, are in the [full repository index](https://github.com/godofecht?tab=repositories).
 
-<sub>Page rebuilt from live repository data on 2026-10-19.</sub>
+<sub>Flow repository links checked on 2026-10-21.</sub>
