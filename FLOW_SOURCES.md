@@ -1,6 +1,6 @@
 # Flow source inventory
 
-This is a source-level index of **5,551 tracked `.flow` files** on the default branches of **17 public repositories**, checked on **22 October 2026**. It includes programs, demonstrations, libraries, benchmarks, compiler fixtures and tests. Each link opens the actual source on GitHub.
+This is a source-level index of **5,554 tracked `.flow` files** on the default branches of **18 public repositories**, checked on **22 October 2026**. It includes programs, demonstrations, libraries, benchmarks, compiler fixtures and tests. Each link opens the actual source on GitHub.
 
 This is a **current public-source snapshot**, not a claim to cover deleted files, every historical revision, unindexed forks or private repositories. [Back to the profile README](README.md#flow).
 
@@ -25,6 +25,8 @@ This is a **current public-source snapshot**, not a claim to cover deleted files
 | [`godofecht/hlb-cifar-flow`](https://github.com/godofecht/hlb-cifar-flow) | 10 | [Browse](https://github.com/godofecht/hlb-cifar-flow/tree/main) |
 | [`godofecht/lsystem-garden`](https://github.com/godofecht/lsystem-garden) | 18 | [Browse](https://github.com/godofecht/lsystem-garden/tree/main) |
 | [`godofecht/genomic-world`](https://github.com/godofecht/genomic-world) | 58 | [Browse](https://github.com/godofecht/genomic-world/tree/main) |
+
+| [`godofecht/CallMeMaybe`](https://github.com/godofecht/CallMeMaybe) | 3 | [Browse](https://github.com/godofecht/CallMeMaybe/tree/main) |
 
 ## Source files
 
@@ -6983,6 +6985,18 @@ This is a **current public-source snapshot**, not a claim to cover deleted files
 - [`typo.flow`](https://github.com/godofecht/genomic-world/blob/main/viz/typo.flow)
 - [`view.flow`](https://github.com/godofecht/genomic-world/blob/main/viz/view.flow)
 - [`view3d.flow`](https://github.com/godofecht/genomic-world/blob/main/viz/view3d.flow)
+
+</details>
+
+
+<details>
+<summary><strong>godofecht/CallMeMaybe</strong> — 3 .flow files</summary>
+
+**bridge/flow**
+
+- [`aggregate.flow`](https://github.com/godofecht/CallMeMaybe/blob/main/bridge/flow/aggregate.flow)
+- [`call_me_maybe.flow`](https://github.com/godofecht/CallMeMaybe/blob/main/bridge/flow/call_me_maybe.flow)
+- [`ownership.flow`](https://github.com/godofecht/CallMeMaybe/blob/main/bridge/flow/ownership.flow)
 
 </details>
 
