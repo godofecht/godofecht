@@ -54,8 +54,8 @@ def main():
             continue
         with open(prior, encoding="utf-8") as handle:
             current = handle.read()
-        start = current.find("## Flow\\n")
-        end = current.find("## Build systems\\n", start)
+        start = current.find("## Flow\n")
+        end = current.find("## Build systems\n", start)
         if start >= 0 and end > start:
             flow_section = current[start:end].rstrip()
             break
