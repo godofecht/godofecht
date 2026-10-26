@@ -27,9 +27,6 @@ PALETTE = {
     "_other":                                  ("#9aa4b2", "#5c6672"),
 }
 ORDER = [s[0] for s in spine.SECTIONS]
-import re
-with open(os.path.join(HERE, "FLOW_SOURCES.md"), encoding="utf-8") as _flow_index:
-    FLOW_SOURCE_REPOS = set(re.findall(r"^\\| \\[`([^`]+)`\\]\\(https://github\\.com/[^)]+\\) \\| [\\d,]+ \\|", _flow_index.read(), re.M))
 
 def fetch():
     out = []
@@ -82,7 +79,7 @@ def section_of(full, topics=frozenset()):
     for title, _blurb, repos in spine.SECTIONS:
         if any(r[0] == full for r in repos): return title
     if full.startswith("godofecht/azazel-parity"): return "Build systems"
-    if full.startswith("flooooooooooow/") or full in FLOW_SOURCE_REPOS: return "Flow"
+    if full.startswith("flooooooooooow/"): return "Flow"
     best, score = "_other", 0
     for title, keys in TOPIC_MAP:
         n = len(topics & keys)
@@ -156,87 +153,6 @@ def radius(stars): return 3.0 + min(7.0, math.sqrt(stars) * 2.4)
 
 def esc(s): return s.replace("&","&amp;").replace("<","&lt;").replace(">","&gt;")
 
-
-def add_flow_header(svg, dark):
-    """Wrap the main repo constellation in an explicit, source-verified Flow ecosystem header."""
-    import re
-    inventory = os.path.join(HERE, "FLOW_SOURCES.md")
-    with open(inventory, encoding="utf-8") as handle:
-        raw = handle.read()
-    source_rows = [(name, int(n.replace(",", ""))) for name, n in
-                   re.findall(r'^\| \[\`([^\`]+)\`\]\(https://github\.com/[^)]+\) \| ([\d,]+) \|', raw, re.M)]
-    source = dict(source_rows)
-    extras = ("flooooooooooow/homebrew-flow", "flooooooooooow/tree-sitter-flow",
-              "flooooooooooow/flow-tmLanguage", "godofecht/flow-social")
-    items = [
-        "flooooooooooow/flow", "flooooooooooow/flow-compiler",
-        "flooooooooooow/flow-idiomatics", "flooooooooooow/flow-kernel",
-        "flooooooooooow/flow-skills", "flooooooooooow/homebrew-flow",
-        "flooooooooooow/tree-sitter-flow", "flooooooooooow/flow-tmLanguage",
-        "godofecht/flow-scikit", "godofecht/FlowStudio", "godofecht/flowrat",
-        "godofecht/genomic-world", "godofecht/embryo-maker-flow",
-        "godofecht/hlb-cifar-flow", "godofecht/flow-euler",
-        "godofecht/doom-flow", "godofecht/doom-flow-rl",
-        "godofecht/lsystem-garden", "godofecht/flow-gun",
-        "godofecht/flow-chimera", "godofecht/CallMeMaybe",
-        "godofecht/flow-social"
-    ]
-    if set(items) != (set(source) | set(extras)):
-        raise ValueError("Flow source inventory changed: update the graph's public ecosystem pins")
-    count = sum(source.values())
-    bg = "#0d1117" if dark else "#ffffff"
-    tx = "#edf2fa" if dark else "#182339"
-    muted = "#91a1ba" if dark else "#5d6e86"
-    line = "#303a52" if dark else "#d6dce8"
-    badge_bg = "#151d2a" if dark else "#f2f5fa"
-    badge_border = "#303c52" if dark else "#d7dfeb"
-    colors = {"purple": "#a18aff", "blue": "#5eb7f5", "teal": "#36d2bd",
-              "amber": "#ffbc70", "grey": "#81909e"}
-    groups = [
-        "purple", "purple", "purple", "purple", "purple", "purple", "purple", "purple",
-        "blue", "blue", "blue", "blue", "blue", "blue", "blue",
-        "teal", "teal", "teal", "teal", "amber", "amber", "grey"
-    ]
-    inner = "\n".join(svg.split("\n")[2:-1])
-    if not inner.startswith('<g stroke-linecap="round">'):
-        raise ValueError("Unexpected base graph structure")
-    p = [
-        '<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="576" viewBox="0 0 1280 576" role="img" aria-label="Flow ecosystem and public repository constellation">',
-        f'<title>Flow ecosystem: {count:,} source files in {len(source):d} public source repositories; {len(items)} Flow ecosystem projects</title>',
-        f'<rect width="1280" height="576" fill="{bg}"/>',
-        f'<defs><linearGradient id="flow-halo" x1="0" x2="1"><stop offset="0" stop-color="#7c5cff" stop-opacity="{".19" if dark else ".12"}"/><stop offset=".65" stop-color="#168fd6" stop-opacity="{".07" if dark else ".04"}"/><stop offset="1" stop-color="#168fd6" stop-opacity="0"/></linearGradient></defs>',
-        '<rect x="0" y="0" width="1280" height="209" fill="url(#flow-halo)"/>',
-        f'<line x1="35" y1="210" x2="1245" y2="210" stroke="{line}" stroke-width="1"/>',
-        f'<text x="45" y="34" font-size="12" letter-spacing="3.1" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" fill="{muted}">SYSTEMS THAT EVOLVE THROUGH TIME</text>',
-        f'<text x="42" y="91" font-size="54" font-weight="750" letter-spacing="-2" font-family="ui-sans-serif,system-ui,sans-serif" fill="{tx}">FLOW<tspan fill="#a18aff">.</tspan></text>',
-        f'<text x="45" y="116" font-size="14" font-family="ui-sans-serif,system-ui,sans-serif" fill="{muted}">A language, compiler and growing ecosystem</text>',
-        f'<text x="45" y="164" font-size="32" font-weight="700" font-family="ui-sans-serif,system-ui,sans-serif" fill="#a18aff">{count:,}</text>',
-        f'<text x="152" y="162" font-size="13" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" fill="{tx}">.flow source files</text>',
-        f'<text x="45" y="190" font-size="12" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" fill="{muted}">{len(source)} source repositories · {len(items)} public Flow projects and tools</text>',
-        f'<text x="495" y="22" font-size="11" letter-spacing="1.7" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" fill="{muted}">THE FLOW PROJECT NETWORK</text>',
-    ]
-    for i, full in enumerate(items):
-        col, row = i % 4, i // 4
-        cx, cy = 491 + col * 189, 46 + row * 27
-        p.append(f'<path d="M 413 122 Q {450+col*20} {52+row*19} {cx} {cy}" fill="none" stroke="#987aff" stroke-opacity="{".13" if dark else ".10"}" stroke-width=".9"/>')
-    for i, (full, group) in enumerate(zip(items, groups)):
-        col, row = i % 4, i // 4
-        x, y = 488 + col * 189, 33 + row * 27
-        name = full.split("/")[-1]
-        title = esc(full) + (f" — {source[full]:,} Flow files" if full in source else "")
-        p.extend([
-            "<g>", f"<title>{title}</title>",
-            f'<rect x="{x}" y="{y}" rx="7" width="176" height="22" fill="{badge_bg}" stroke="{badge_border}" stroke-width=".75"/>',
-            f'<circle cx="{x+11}" cy="{y+11}" r="3.2" fill="{colors[group]}"' + (' opacity=".45"' if name == "flow-social" else "") + '/>',
-            f'<text x="{x+22}" y="{y+14.7}" font-size="11.1" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" fill="{muted if name == "flow-social" else tx}">{esc(name)}</text>',
-            "</g>"
-        ])
-    p.extend([
-        f'<text x="45" y="234" font-size="11" letter-spacing="2.1" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" fill="{muted}">WIDER REPOSITORY CONSTELLATION</text>',
-        '<g transform="translate(0 216)">', inner, '</g>', '</svg>'
-    ])
-    return "\n".join(p)
-
 def render(nodes, edges, dark):
     bg   = "#0d1117" if dark else "#ffffff"
     edge = "#2b3440" if dark else "#d5dbe4"
@@ -257,7 +173,7 @@ def render(nodes, edges, dark):
     for nd in nodes:
         if not nd["label"]: continue
         c = PALETTE.get(nd["section"], PALETTE["_other"])[0 if not dark else 1]
-        p.append(f'<text x="{nd["x"]:.1f}" y="{nd.get("ly", nd["y"]):.1f}" font-family="{fam}" '
+        p.append(f'<text x="{nd["x"]:.1f}" y="{nd.get('ly', nd["y"]):.1f}" font-family="{fam}" '
                  f'font-size="11" fill="{text}" text-anchor="middle" '
                  f'stroke="{bg}" stroke-width="3.5" paint-order="stroke">{esc(nd["name"])}</text>')
     lx = PAD
@@ -272,7 +188,7 @@ def render(nodes, edges, dark):
         p.append(f'<text x="{lx+14}" y="{H-12}" font-family="{fam}" font-size="10.5" fill="{text}" fill-opacity="0.8">{short}</text>')
         lx += 22 + len(short) * 6.4
     p.append('</svg>')
-    return add_flow_header("\n".join(p), dark)
+    return "\n".join(p)
 
 def main():
     repos = fetch()

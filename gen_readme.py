@@ -36,7 +36,7 @@ def main():
     o.append('<div align="center">')
     o.append('  <picture>')
     o.append('    <source media="(prefers-color-scheme: dark)" srcset="assets/graph-dark.svg">')
-    o.append('    <img src="assets/graph-light.svg" alt="Flow ecosystem: public Flow sources and broader repository constellation" width="100%">')
+    o.append('    <img src="assets/graph-light.svg" alt="Every public repository in this account, joined where they share a topic" width="100%">')
     o.append('  </picture>')
     o.append('</div>')
     o.append('')
@@ -47,24 +47,7 @@ def main():
     o.append(' '.join(badge(l, u, r) for l, u, r in spine.LINKS))
     o.append('')
 
-    # Preserve the expanded, hand-curated Flow section when refreshing other profile data.
-    flow_section = None
-    for prior in (os.path.join(REPO_DIR, "README.md"), os.path.join(HERE, "README.md")):
-        if not os.path.isfile(prior):
-            continue
-        with open(prior, encoding="utf-8") as handle:
-            current = handle.read()
-        start = current.find("## Flow\n")
-        end = current.find("## Build systems\n", start)
-        if start >= 0 and end > start:
-            flow_section = current[start:end].rstrip()
-            break
-
     for title, blurb, repos in spine.SECTIONS:
-        if title == "Flow" and flow_section is not None:
-            o.extend(flow_section.splitlines())
-            o.append("")
-            continue
         o.append(f'## {title}')
         o.append('')
         if blurb:
@@ -91,8 +74,9 @@ def main():
     o.append(spine.CLOSER)
     o.append('')
     featured = {f for _t,_b,rs in spine.SECTIONS for f,_ in rs}
-    o.append('Other projects, including older work, are in the '
-             '[full repository index](https://github.com/godofecht?tab=repositories).')
+    o.append(f'There are {len(L)} public repositories here in total. '
+             f'The {len(L)-len(featured)} not listed above are mostly older. '
+             f'[All of them](https://github.com/godofecht?tab=repositories).')
     o.append('')
     o.append(f'<sub>Page rebuilt from live repository data on {datetime.date.today().isoformat()}.</sub>')
 
