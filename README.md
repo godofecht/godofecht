@@ -41,7 +41,6 @@ Tools for making a result checkable by someone who is not you.
 - **[perturbation-kernel](https://github.com/godofecht/perturbation-kernel)** Scalar, SIMD and GPU backends that agree bit for bit. Rust core, five language bindings, on PyPI and crates.io. [(live)](https://godofecht.github.io/perturbation-kernel/)
 - **[citeverify](https://github.com/godofecht/citeverify)** Checks every reference in a bibliography against eight bibliographic indexes. Reads BibTeX, RIS, CSL-JSON, .bbl, .docx and PDF.
 - **[corpus-lens](https://github.com/godofecht/corpus-lens)** TF-IDF keywords, rhetorical fingerprints and embeddings across a whole corpus.
-- **[tilekiln](https://github.com/godofecht/tilekiln)** Procedural texture synthesis with measured parameter stability.
 
 ## Audio and real-time
 
@@ -90,4 +89,4 @@ The through line is asking how much of a stack stays necessary once you are will
 
 There are 110 public repositories here in total. The 73 not listed above are mostly older. [All of them](https://github.com/godofecht?tab=repositories).
 
-<sub>Page rebuilt from live repository data on 2026-11-02.</sub>
+<sub>Page rebuilt from live repository data on 2026-11-09.</sub>
