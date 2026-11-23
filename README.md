@@ -17,7 +17,7 @@ Neuroscience at the University of Cambridge, music technology at Birmingham Cons
 
 Flow is a statically typed, compiled systems language for programs that evolve through time. Version 1.0 freezes a small production core around the self-hosted `flowc` compiler and a portable C backend. `brew tap flooooooooooow/flow && brew install flow`. Most of what I am building now runs through it.
 
-- **[flow](https://github.com/flooooooooooow/flow)** `7★` The language, the self-hosted `flowc` compiler and the standard library. MIT, at 1.0.2. [(live)](https://flooooooooooow.github.io/flow/)
+- **[flow](https://github.com/flooooooooooow/flow)** `8★` The language, the self-hosted `flowc` compiler and the standard library. MIT, at 1.0.2. [(live)](https://flooooooooooow.github.io/flow/)
 - **[flow-scikit](https://github.com/godofecht/flow-scikit)** scikit-learn rebuilt in Flow. A 1.4 MB native binary with no Python runtime. [(live)](https://godofecht.github.io/flow-scikit)
 - **[flowrat](https://github.com/godofecht/flowrat)** Rat navigation and hippocampal dynamics in real time. The arena is editable while the simulation runs. [(live)](https://godofecht.github.io/flowrat/)
 - **[doom-flow](https://github.com/godofecht/doom-flow)** The Doom engine, ported. [(live)](https://godofecht.github.io/doom-flow/)
@@ -40,14 +40,13 @@ Tools for making a result checkable by someone who is not you.
 
 - **[perturbation-kernel](https://github.com/godofecht/perturbation-kernel)** Scalar, SIMD and GPU backends that agree bit for bit. Rust core, five language bindings, on PyPI and crates.io. [(live)](https://godofecht.github.io/perturbation-kernel/)
 - **[citeverify](https://github.com/godofecht/citeverify)** Checks every reference in a bibliography against eight bibliographic indexes. Reads BibTeX, RIS, CSL-JSON, .bbl, .docx and PDF.
-- **[corpus-lens](https://github.com/godofecht/corpus-lens)** TF-IDF keywords, rhetorical fingerprints and embeddings across a whole corpus.
 
 ## Audio and real-time
 
 Audio has been the continuous thread. Product work runs through [Quilio](https://www.quilio.dev).
 
-- **[danzig](https://github.com/godofecht/danzig)** `4★` The VST3 C ABI implemented directly in Zig, as extern structs of callconv(.c) function pointers. No JUCE, no Steinberg SDK. [(live)](https://godofecht.github.io/danzig/)
-- **[tinyML](https://github.com/godofecht/tinyML)** `8★` A C++ machine-learning and statistics library for embedded and real-time workloads.
+- **[danzig](https://github.com/godofecht/danzig)** `5★` The VST3 C ABI implemented directly in Zig, as extern structs of callconv(.c) function pointers. No JUCE, no Steinberg SDK. [(live)](https://godofecht.github.io/danzig/)
+- **[tinyML](https://github.com/godofecht/tinyML)** `9★` A C++ machine-learning and statistics library for embedded and real-time workloads.
 - **[isobarcpp](https://github.com/godofecht/isobarcpp)** Daniel Jones' isobar algorithmic music library, in C++.
 - **[Analog-Fattener](https://github.com/godofecht/Analog-Fattener)** `4★` An analog fattener effect in JUCE.
 - **[Wobblefet](https://github.com/godofecht/Wobblefet)** Pink Trombone, the interactive vocal tract synthesizer, modified.
@@ -87,6 +86,6 @@ Smaller things that exist because something was annoying.
 
 The through line is asking how much of a stack stays necessary once you are willing to change the abstraction underneath it.
 
-There are 110 public repositories here in total. The 73 not listed above are mostly older. [All of them](https://github.com/godofecht?tab=repositories).
+There are 118 public repositories here in total. The 81 not listed above are mostly older. [All of them](https://github.com/godofecht?tab=repositories).
 
-<sub>Page rebuilt from live repository data on 2026-11-09.</sub>
+<sub>Page rebuilt from live repository data on 2026-11-23.</sub>
